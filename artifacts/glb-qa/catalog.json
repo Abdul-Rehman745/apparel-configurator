@@ -1,0 +1,7138 @@
+{
+  "fonts": [
+    {
+      "family": "Inter",
+      "source": "google",
+      "license": "OFL-1.1",
+      "category": "Sans Serif"
+    },
+    {
+      "family": "Montserrat",
+      "source": "google",
+      "license": "OFL-1.1",
+      "category": "Sans Serif"
+    },
+    {
+      "family": "Roboto",
+      "source": "google",
+      "license": "Apache-2.0",
+      "category": "Sans Serif"
+    },
+    {
+      "family": "Poppins",
+      "source": "google",
+      "license": "OFL-1.1",
+      "category": "Sans Serif"
+    },
+    {
+      "family": "Archivo",
+      "source": "google",
+      "license": "OFL-1.1",
+      "category": "Sans Serif"
+    },
+    {
+      "family": "Playfair Display",
+      "source": "google",
+      "license": "OFL-1.1",
+      "category": "Serif"
+    },
+    {
+      "family": "Merriweather",
+      "source": "google",
+      "license": "OFL-1.1",
+      "category": "Serif"
+    },
+    {
+      "family": "Lora",
+      "source": "google",
+      "license": "OFL-1.1",
+      "category": "Serif"
+    },
+    {
+      "family": "DM Serif Display",
+      "source": "google",
+      "license": "OFL-1.1",
+      "category": "Serif"
+    },
+    {
+      "family": "Bebas Neue",
+      "source": "google",
+      "license": "OFL-1.1",
+      "category": "Display"
+    },
+    {
+      "family": "Anton",
+      "source": "google",
+      "license": "OFL-1.1",
+      "category": "Display"
+    },
+    {
+      "family": "Bungee",
+      "source": "google",
+      "license": "OFL-1.1",
+      "category": "Display"
+    },
+    {
+      "family": "Righteous",
+      "source": "google",
+      "license": "OFL-1.1",
+      "category": "Display"
+    },
+    {
+      "family": "Pacifico",
+      "source": "google",
+      "license": "OFL-1.1",
+      "category": "Script"
+    },
+    {
+      "family": "Dancing Script",
+      "source": "google",
+      "license": "OFL-1.1",
+      "category": "Script"
+    },
+    {
+      "family": "Lobster",
+      "source": "google",
+      "license": "OFL-1.1",
+      "category": "Script"
+    },
+    {
+      "family": "Great Vibes",
+      "source": "google",
+      "license": "OFL-1.1",
+      "category": "Script"
+    },
+    {
+      "family": "Oswald",
+      "source": "google",
+      "license": "OFL-1.1",
+      "category": "Sports"
+    },
+    {
+      "family": "Teko",
+      "source": "google",
+      "license": "OFL-1.1",
+      "category": "Sports"
+    },
+    {
+      "family": "Russo One",
+      "source": "google",
+      "license": "OFL-1.1",
+      "category": "Sports"
+    },
+    {
+      "family": "Saira Condensed",
+      "source": "google",
+      "license": "OFL-1.1",
+      "category": "Sports"
+    },
+    {
+      "family": "Graduate",
+      "source": "google",
+      "license": "OFL-1.1",
+      "category": "College"
+    },
+    {
+      "family": "Alfa Slab One",
+      "source": "google",
+      "license": "OFL-1.1",
+      "category": "College"
+    },
+    {
+      "family": "Staatliches",
+      "source": "google",
+      "license": "OFL-1.1",
+      "category": "College"
+    },
+    {
+      "family": "Rye",
+      "source": "google",
+      "license": "OFL-1.1",
+      "category": "Vintage"
+    },
+    {
+      "family": "Abril Fatface",
+      "source": "google",
+      "license": "OFL-1.1",
+      "category": "Vintage"
+    },
+    {
+      "family": "Special Elite",
+      "source": "google",
+      "license": "Apache-2.0",
+      "category": "Vintage"
+    },
+    {
+      "family": "Caveat",
+      "source": "google",
+      "license": "OFL-1.1",
+      "category": "Handwritten"
+    },
+    {
+      "family": "Permanent Marker",
+      "source": "google",
+      "license": "Apache-2.0",
+      "category": "Handwritten"
+    },
+    {
+      "family": "Kalam",
+      "source": "google",
+      "license": "OFL-1.1",
+      "category": "Handwritten"
+    },
+    {
+      "family": "JetBrains Mono",
+      "source": "google",
+      "license": "OFL-1.1",
+      "category": "Monospace"
+    },
+    {
+      "family": "Space Mono",
+      "source": "google",
+      "license": "OFL-1.1",
+      "category": "Monospace"
+    }
+  ],
+  "cameras": [
+    {
+      "id": "full",
+      "label": "Full product",
+      "polar": 1.38,
+      "azimuth": 0.55,
+      "distance": 2.5
+    },
+    {
+      "id": "front",
+      "label": "Front",
+      "polar": 1.5,
+      "azimuth": 0,
+      "distance": 2.3
+    },
+    {
+      "id": "back",
+      "label": "Back",
+      "polar": 1.5,
+      "azimuth": 3.141592653589793,
+      "distance": 2.3
+    },
+    {
+      "id": "left",
+      "label": "Left",
+      "polar": 1.5,
+      "azimuth": 1.5707963267948966,
+      "distance": 2.3
+    },
+    {
+      "id": "right",
+      "label": "Right",
+      "polar": 1.5,
+      "azimuth": -1.5707963267948966,
+      "distance": 2.3
+    },
+    {
+      "id": "left_sleeve",
+      "focus": "left_sleeve",
+      "label": "Left sleeve",
+      "polar": 1.4,
+      "azimuth": 1.15,
+      "distance": 1.45
+    },
+    {
+      "id": "right_sleeve",
+      "focus": "right_sleeve",
+      "label": "Right sleeve",
+      "polar": 1.4,
+      "azimuth": -1.15,
+      "distance": 1.45
+    },
+    {
+      "id": "neck",
+      "focus": "back_inside",
+      "label": "Neck",
+      "polar": 0.55,
+      "azimuth": 0,
+      "distance": 1.25
+    },
+    {
+      "id": "detail",
+      "label": "Detail",
+      "polar": 1.4,
+      "azimuth": 0.35,
+      "distance": 1.1
+    }
+  ],
+  "pricing": {
+    "rules": [
+      {
+        "id": "base-tee",
+        "per": "unit",
+        "when": {
+          "productIds": [
+            "tshirt"
+          ]
+        },
+        "label": "Classic T-Shirt",
+        "amount": 18
+      },
+      {
+        "id": "premium-tee",
+        "per": "unit",
+        "when": {
+          "modelIds": [
+            "premium-tee"
+          ]
+        },
+        "label": "Premium fit",
+        "amount": 4
+      },
+      {
+        "id": "oversized-tee",
+        "per": "unit",
+        "when": {
+          "modelIds": [
+            "oversized-tee"
+          ]
+        },
+        "label": "Oversized fit",
+        "amount": 3
+      },
+      {
+        "id": "base-ls",
+        "per": "unit",
+        "when": {
+          "productIds": [
+            "longsleeve"
+          ]
+        },
+        "label": "Long Sleeve Tee",
+        "amount": 22
+      },
+      {
+        "id": "base-polo",
+        "per": "unit",
+        "when": {
+          "productIds": [
+            "polo"
+          ]
+        },
+        "label": "Piqué Polo",
+        "amount": 26
+      },
+      {
+        "id": "base-hoodie",
+        "per": "unit",
+        "when": {
+          "productIds": [
+            "hoodie"
+          ]
+        },
+        "label": "Pullover Hoodie",
+        "amount": 38
+      },
+      {
+        "id": "base-sweat",
+        "per": "unit",
+        "when": {
+          "productIds": [
+            "sweatshirt"
+          ]
+        },
+        "label": "Crew Sweatshirt",
+        "amount": 32
+      },
+      {
+        "id": "base-tank",
+        "per": "unit",
+        "when": {
+          "productIds": [
+            "tank"
+          ]
+        },
+        "label": "Tank Top",
+        "amount": 15
+      },
+      {
+        "id": "base-dress",
+        "per": "unit",
+        "when": {
+          "productIds": [
+            "dress-shirt"
+          ]
+        },
+        "label": "Oxford Dress Shirt",
+        "amount": 42
+      },
+      {
+        "id": "base-work",
+        "per": "unit",
+        "when": {
+          "productIds": [
+            "workwear"
+          ]
+        },
+        "label": "Workwear Shirt",
+        "amount": 36
+      },
+      {
+        "id": "base-jersey",
+        "per": "unit",
+        "when": {
+          "productIds": [
+            "jersey"
+          ]
+        },
+        "label": "Sublimated Jersey",
+        "amount": 34
+      },
+      {
+        "id": "base-sports",
+        "per": "unit",
+        "when": {
+          "productIds": [
+            "sports-tee"
+          ]
+        },
+        "label": "Performance Sports Shirt",
+        "amount": 20
+      },
+      {
+        "id": "base-kids",
+        "per": "unit",
+        "when": {
+          "productIds": [
+            "kids-tee"
+          ]
+        },
+        "label": "Kids T-Shirt",
+        "amount": 14
+      },
+      {
+        "id": "size-2xl",
+        "per": "unit",
+        "when": {
+          "sizeIds": [
+            "2XL"
+          ]
+        },
+        "label": "2XL size",
+        "amount": 2
+      },
+      {
+        "id": "size-3xl",
+        "per": "unit",
+        "when": {
+          "sizeIds": [
+            "3XL"
+          ]
+        },
+        "label": "3XL size",
+        "amount": 3
+      },
+      {
+        "id": "mat-blend",
+        "per": "unit",
+        "when": {
+          "materialIds": [
+            "blend"
+          ]
+        },
+        "label": "Blend fabric",
+        "amount": 2
+      },
+      {
+        "id": "mat-poly",
+        "per": "unit",
+        "when": {
+          "materialIds": [
+            "polyester"
+          ]
+        },
+        "label": "Polyester fabric",
+        "amount": 3
+      },
+      {
+        "id": "mat-perf",
+        "per": "unit",
+        "when": {
+          "productIds": [
+            "tshirt",
+            "tank",
+            "polo",
+            "sports-tee"
+          ],
+          "materialIds": [
+            "performance"
+          ]
+        },
+        "label": "Performance fabric",
+        "amount": 6
+      },
+      {
+        "id": "print-large",
+        "per": "area",
+        "when": {
+          "methodIds": [
+            "dtg",
+            "dtf",
+            "vinyl"
+          ],
+          "areaGroups": [
+            "large"
+          ]
+        },
+        "label": "Large print",
+        "amount": 5
+      },
+      {
+        "id": "print-small",
+        "per": "area",
+        "when": {
+          "methodIds": [
+            "dtg",
+            "dtf",
+            "vinyl"
+          ],
+          "areaGroups": [
+            "small",
+            "label"
+          ]
+        },
+        "label": "Small print",
+        "amount": 3
+      },
+      {
+        "id": "print-sleeve",
+        "per": "area",
+        "when": {
+          "methodIds": [
+            "dtg",
+            "dtf",
+            "vinyl"
+          ],
+          "areaGroups": [
+            "sleeve"
+          ]
+        },
+        "label": "Sleeve print",
+        "amount": 3
+      },
+      {
+        "id": "screen-area",
+        "per": "area",
+        "when": {
+          "methodIds": [
+            "screen"
+          ]
+        },
+        "label": "Screen print location",
+        "amount": 2
+      },
+      {
+        "id": "screen-color",
+        "per": "color",
+        "when": {
+          "methodIds": [
+            "screen"
+          ]
+        },
+        "label": "Screen colour",
+        "amount": 1
+      },
+      {
+        "id": "screen-setup",
+        "per": "order",
+        "when": {
+          "methodIds": [
+            "screen"
+          ]
+        },
+        "label": "Screen setup (per order)",
+        "amount": 25
+      },
+      {
+        "id": "emb-large",
+        "per": "area",
+        "when": {
+          "methodIds": [
+            "embroidery"
+          ],
+          "areaGroups": [
+            "large"
+          ]
+        },
+        "label": "Large embroidery",
+        "amount": 14
+      },
+      {
+        "id": "emb-small",
+        "per": "area",
+        "when": {
+          "methodIds": [
+            "embroidery"
+          ],
+          "areaGroups": [
+            "small",
+            "sleeve",
+            "label"
+          ]
+        },
+        "label": "Embroidery",
+        "amount": 8
+      },
+      {
+        "id": "sublimation",
+        "per": "area",
+        "when": {
+          "methodIds": [
+            "sublimation"
+          ]
+        },
+        "label": "All-over panel",
+        "amount": 6
+      },
+      {
+        "id": "personal",
+        "per": "personalizedUnit",
+        "label": "Name / number personalisation",
+        "amount": 3
+      },
+      {
+        "id": "premium-art",
+        "per": "premiumAsset",
+        "label": "Premium artwork",
+        "amount": 2
+      }
+    ],
+    "tiers": [
+      {
+        "label": "1–9",
+        "minQty": 1,
+        "pctOff": 0
+      },
+      {
+        "label": "10–24",
+        "minQty": 10,
+        "pctOff": 5
+      },
+      {
+        "label": "25–49",
+        "minQty": 25,
+        "pctOff": 10
+      },
+      {
+        "label": "50–99",
+        "minQty": 50,
+        "pctOff": 15
+      },
+      {
+        "label": "100+",
+        "minQty": 100,
+        "pctOff": 20
+      }
+    ],
+    "currency": "USD"
+  },
+  "products": [
+    {
+      "id": "tshirt",
+      "slug": "t-shirt",
+      "sizes": [
+        {
+          "id": "XS",
+          "sku": "TEE-XS",
+          "label": "XS",
+          "scale": 0.88,
+          "chestIn": 17,
+          "lengthIn": 27,
+          "sleeveIn": 7.5,
+          "shoulderIn": 16
+        },
+        {
+          "id": "S",
+          "sku": "TEE-S",
+          "label": "S",
+          "scale": 0.94,
+          "chestIn": 18.5,
+          "lengthIn": 28,
+          "sleeveIn": 8,
+          "shoulderIn": 17
+        },
+        {
+          "id": "M",
+          "sku": "TEE-M",
+          "label": "M",
+          "scale": 1,
+          "chestIn": 20,
+          "lengthIn": 29,
+          "sleeveIn": 8.25,
+          "shoulderIn": 18
+        },
+        {
+          "id": "L",
+          "sku": "TEE-L",
+          "label": "L",
+          "scale": 1.06,
+          "chestIn": 22,
+          "lengthIn": 30,
+          "sleeveIn": 8.5,
+          "shoulderIn": 19.5
+        },
+        {
+          "id": "XL",
+          "sku": "TEE-XL",
+          "label": "XL",
+          "scale": 1.12,
+          "chestIn": 24,
+          "lengthIn": 31,
+          "sleeveIn": 8.75,
+          "shoulderIn": 21
+        },
+        {
+          "id": "2XL",
+          "sku": "TEE-2XL",
+          "label": "2XL",
+          "scale": 1.18,
+          "chestIn": 26,
+          "lengthIn": 32,
+          "sleeveIn": 9,
+          "shoulderIn": 22.5
+        },
+        {
+          "id": "3XL",
+          "sku": "TEE-3XL",
+          "label": "3XL",
+          "scale": 1.24,
+          "chestIn": 28,
+          "lengthIn": 33,
+          "sleeveIn": 9.25,
+          "shoulderIn": 24
+        }
+      ],
+      "title": "Classic T-Shirt",
+      "colors": [
+        {
+          "id": "white",
+          "hex": "#f4f4f1",
+          "name": "White",
+          "mfrId": "00"
+        },
+        {
+          "id": "black",
+          "hex": "#1c1c1e",
+          "name": "Black",
+          "mfrId": "36"
+        },
+        {
+          "id": "navy",
+          "hex": "#1f2a44",
+          "name": "Navy",
+          "mfrId": "32"
+        },
+        {
+          "id": "royal",
+          "hex": "#2250a8",
+          "name": "Royal Blue",
+          "mfrId": "51"
+        },
+        {
+          "id": "red",
+          "hex": "#b3202c",
+          "name": "Red",
+          "mfrId": "40"
+        },
+        {
+          "id": "forest",
+          "hex": "#26452f",
+          "name": "Forest Green",
+          "mfrId": "33"
+        },
+        {
+          "id": "heather",
+          "hex": "#a7a8aa",
+          "name": "Heather Grey",
+          "mfrId": "RS"
+        },
+        {
+          "id": "sand",
+          "hex": "#d8c7a6",
+          "name": "Sand",
+          "mfrId": "6E"
+        },
+        {
+          "id": "maroon",
+          "hex": "#5a1f2b",
+          "name": "Maroon",
+          "mfrId": "38"
+        },
+        {
+          "id": "gold",
+          "hex": "#e2a927",
+          "name": "Gold",
+          "mfrId": "24"
+        }
+      ],
+      "models": [
+        {
+          "id": "real-tee",
+          "label": "Real Tee",
+          "panels": [
+            {
+              "id": "front",
+              "label": "front",
+              "mesh": "shirt_front",
+              "widthIn": 19.32,
+              "heightIn": 25.35,
+              "colorZone": "body"
+            },
+            {
+              "id": "back",
+              "label": "back",
+              "mesh": "shirt_back",
+              "widthIn": 19.08,
+              "heightIn": 25.35,
+              "colorZone": "body"
+            },
+            {
+              "id": "left_sleeve",
+              "label": "left sleeve",
+              "mesh": "shirt_left_sleeve",
+              "widthIn": 8.62,
+              "heightIn": 7.1,
+              "colorZone": "body"
+            },
+            {
+              "id": "right_sleeve",
+              "label": "right sleeve",
+              "mesh": "shirt_right_sleeve",
+              "widthIn": 8.7,
+              "heightIn": 7.05,
+              "colorZone": "body"
+            }
+          ],
+          "source": {
+            "type": "glb",
+            "url": "asset:a_ac9db181537cebd3bce3e773"
+          },
+          "license": {
+            "url": "https://3dassets.dev/assets/clothing-rail-and-wardrobe-tshirt-on-hanger-c0e0e17d",
+            "author": "3D Assets (3dassets.dev)",
+            "source": "cc0",
+            "license": "CC0-1.0",
+            "downloadedAt": "2026-09-24",
+            "modifications": "Hanger meshes removed; split into front/back/sleeve panels; print UVs generated (models/prepare_tshirt.py). SHA256 of original: A2FA84A62DC7A856835DA14741F94A148DB3AA1E1C76B99A57000F1A9436B4A8.",
+            "redistribution": "allowed",
+            "attributionRequired": false
+          },
+          "colorZones": [
+            {
+              "id": "body",
+              "label": "Body"
+            }
+          ],
+          "printAreas": [
+            {
+              "id": "full_front",
+              "rect": {
+                "hIn": 14,
+                "wIn": 12,
+                "xIn": 3.66,
+                "yIn": 4.5
+              },
+              "group": "large",
+              "label": "Full front",
+              "panel": "front",
+              "camera": "front",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "left_chest",
+                "right_chest"
+              ]
+            },
+            {
+              "id": "left_chest",
+              "rect": {
+                "hIn": 4,
+                "wIn": 4,
+                "xIn": 12.16,
+                "yIn": 5
+              },
+              "group": "small",
+              "label": "Left chest",
+              "panel": "front",
+              "camera": "front",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "full_front"
+              ]
+            },
+            {
+              "id": "right_chest",
+              "rect": {
+                "hIn": 4,
+                "wIn": 4,
+                "xIn": 3.16,
+                "yIn": 5
+              },
+              "group": "small",
+              "label": "Right chest",
+              "panel": "front",
+              "camera": "front",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "full_front"
+              ]
+            },
+            {
+              "id": "full_back",
+              "rect": {
+                "hIn": 14,
+                "wIn": 12,
+                "xIn": 3.539999999999999,
+                "yIn": 5
+              },
+              "group": "large",
+              "label": "Full back",
+              "panel": "back",
+              "camera": "back",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "upper_back"
+              ]
+            },
+            {
+              "id": "upper_back",
+              "rect": {
+                "hIn": 3,
+                "wIn": 11,
+                "xIn": 4.039999999999999,
+                "yIn": 3.5
+              },
+              "group": "small",
+              "label": "Upper back",
+              "panel": "back",
+              "camera": "back",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "full_back"
+              ]
+            },
+            {
+              "id": "left_sleeve",
+              "rect": {
+                "xIn": 2.8099999999999996,
+                "yIn": 3,
+                "wIn": 3,
+                "hIn": 2
+              },
+              "group": "sleeve",
+              "label": "Left sleeve",
+              "panel": "left_sleeve",
+              "camera": "left_sleeve",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25
+            },
+            {
+              "id": "right_sleeve",
+              "rect": {
+                "xIn": 2.8499999999999996,
+                "yIn": 3,
+                "wIn": 3,
+                "hIn": 2
+              },
+              "group": "sleeve",
+              "label": "Right sleeve",
+              "panel": "right_sleeve",
+              "camera": "right_sleeve",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25
+            }
+          ]
+        },
+        {
+          "id": "basic-tee",
+          "label": "Basic Tee",
+          "panels": [
+            {
+              "id": "front",
+              "label": "Front",
+              "widthIn": 19.989078215418964,
+              "heightIn": 28.262344342404354,
+              "colorZone": "body"
+            },
+            {
+              "id": "back",
+              "label": "Back",
+              "widthIn": 19.989078215418964,
+              "heightIn": 28.262344342404354,
+              "colorZone": "body"
+            },
+            {
+              "id": "back_inside",
+              "label": "Inside back",
+              "widthIn": 19.989078215418964,
+              "heightIn": 28.262344342404354,
+              "colorZone": "body"
+            },
+            {
+              "id": "left_sleeve",
+              "label": "Left sleeve",
+              "widthIn": 19.842299200073136,
+              "heightIn": 8,
+              "colorZone": "body"
+            },
+            {
+              "id": "right_sleeve",
+              "label": "Right sleeve",
+              "widthIn": 19.842299200073136,
+              "heightIn": 8,
+              "colorZone": "body"
+            }
+          ],
+          "source": {
+            "type": "procedural",
+            "garment": {
+              "kind": "tee",
+              "collar": "crew",
+              "chestIn": 20,
+              "lengthIn": 28,
+              "sleeveLengthIn": 8
+            }
+          },
+          "license": {
+            "author": "Generated in-code (procedural geometry)",
+            "source": "internal",
+            "license": "Proprietary – owned by platform operator",
+            "modifications": "n/a – authored in-house",
+            "redistribution": "embedded-only",
+            "attributionRequired": false
+          },
+          "colorZones": [
+            {
+              "id": "body",
+              "label": "Body"
+            }
+          ],
+          "printAreas": [
+            {
+              "id": "full_front",
+              "rect": {
+                "hIn": 14,
+                "wIn": 12,
+                "xIn": 3.994539107709482,
+                "yIn": 4
+              },
+              "group": "large",
+              "label": "Full front",
+              "panel": "front",
+              "camera": "front",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "left_chest",
+                "right_chest"
+              ]
+            },
+            {
+              "id": "left_chest",
+              "rect": {
+                "hIn": 4,
+                "wIn": 4,
+                "xIn": 12.494539107709482,
+                "yIn": 4.2
+              },
+              "group": "small",
+              "label": "Left chest",
+              "panel": "front",
+              "camera": "front",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "full_front"
+              ]
+            },
+            {
+              "id": "right_chest",
+              "rect": {
+                "hIn": 4,
+                "wIn": 4,
+                "xIn": 3.494539107709482,
+                "yIn": 4.2
+              },
+              "group": "small",
+              "label": "Right chest",
+              "panel": "front",
+              "camera": "front",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "full_front"
+              ]
+            },
+            {
+              "id": "full_back",
+              "rect": {
+                "hIn": 14,
+                "wIn": 12,
+                "xIn": 3.994539107709482,
+                "yIn": 5
+              },
+              "group": "large",
+              "label": "Full back",
+              "panel": "back",
+              "camera": "back",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "upper_back",
+                "lower_back"
+              ]
+            },
+            {
+              "id": "upper_back",
+              "rect": {
+                "hIn": 3,
+                "wIn": 11,
+                "xIn": 4.494539107709482,
+                "yIn": 3.2
+              },
+              "group": "small",
+              "label": "Upper back",
+              "panel": "back",
+              "camera": "back",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "full_back"
+              ]
+            },
+            {
+              "id": "lower_back",
+              "rect": {
+                "hIn": 3,
+                "wIn": 11,
+                "xIn": 4.494539107709482,
+                "yIn": 20.762344342404354
+              },
+              "group": "small",
+              "label": "Lower back",
+              "panel": "back",
+              "camera": "back",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "full_back"
+              ]
+            },
+            {
+              "id": "outside_neck",
+              "rect": {
+                "hIn": 1.3,
+                "wIn": 3,
+                "xIn": 8.494539107709482,
+                "yIn": 1.1
+              },
+              "group": "label",
+              "label": "Outside neck",
+              "panel": "back",
+              "camera": "back",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.1
+            },
+            {
+              "id": "inside_neck",
+              "rect": {
+                "hIn": 2,
+                "wIn": 3,
+                "xIn": 8.494539107709482,
+                "yIn": 1.1
+              },
+              "group": "label",
+              "label": "Inside neck label",
+              "panel": "back_inside",
+              "camera": "neck",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.1
+            },
+            {
+              "id": "left_sleeve",
+              "rect": {
+                "hIn": 3.5,
+                "wIn": 3.5,
+                "xIn": 8.171149600036568,
+                "yIn": 1.6
+              },
+              "group": "sleeve",
+              "label": "Left sleeve",
+              "panel": "left_sleeve",
+              "camera": "left_sleeve",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25
+            },
+            {
+              "id": "right_sleeve",
+              "rect": {
+                "hIn": 3.5,
+                "wIn": 3.5,
+                "xIn": 8.171149600036568,
+                "yIn": 1.6
+              },
+              "group": "sleeve",
+              "label": "Right sleeve",
+              "panel": "right_sleeve",
+              "camera": "right_sleeve",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25
+            }
+          ]
+        },
+        {
+          "id": "premium-tee",
+          "label": "Premium Tee",
+          "panels": [
+            {
+              "id": "front",
+              "label": "Front",
+              "widthIn": 20.488805170804426,
+              "heightIn": 29.30835610601434,
+              "colorZone": "body"
+            },
+            {
+              "id": "back",
+              "label": "Back",
+              "widthIn": 20.488805170804426,
+              "heightIn": 29.30835610601434,
+              "colorZone": "body"
+            },
+            {
+              "id": "back_inside",
+              "label": "Inside back",
+              "widthIn": 20.488805170804426,
+              "heightIn": 29.30835610601434,
+              "colorZone": "body"
+            },
+            {
+              "id": "left_sleeve",
+              "label": "Left sleeve",
+              "widthIn": 20.094883249421752,
+              "heightIn": 8,
+              "colorZone": "body"
+            },
+            {
+              "id": "right_sleeve",
+              "label": "Right sleeve",
+              "widthIn": 20.094883249421752,
+              "heightIn": 8,
+              "colorZone": "body"
+            }
+          ],
+          "source": {
+            "type": "procedural",
+            "garment": {
+              "kind": "tee",
+              "collar": "crew",
+              "chestIn": 20.5,
+              "lengthIn": 29,
+              "sleeveLengthIn": 8
+            }
+          },
+          "license": {
+            "author": "Generated in-code (procedural geometry)",
+            "source": "internal",
+            "license": "Proprietary – owned by platform operator",
+            "modifications": "n/a – authored in-house",
+            "redistribution": "embedded-only",
+            "attributionRequired": false
+          },
+          "colorZones": [
+            {
+              "id": "body",
+              "label": "Body"
+            }
+          ],
+          "printAreas": [
+            {
+              "id": "full_front",
+              "rect": {
+                "hIn": 14,
+                "wIn": 12,
+                "xIn": 4.244402585402213,
+                "yIn": 4
+              },
+              "group": "large",
+              "label": "Full front",
+              "panel": "front",
+              "camera": "front",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "left_chest",
+                "right_chest"
+              ]
+            },
+            {
+              "id": "left_chest",
+              "rect": {
+                "hIn": 4,
+                "wIn": 4,
+                "xIn": 12.744402585402213,
+                "yIn": 4.2
+              },
+              "group": "small",
+              "label": "Left chest",
+              "panel": "front",
+              "camera": "front",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "full_front"
+              ]
+            },
+            {
+              "id": "right_chest",
+              "rect": {
+                "hIn": 4,
+                "wIn": 4,
+                "xIn": 3.744402585402213,
+                "yIn": 4.2
+              },
+              "group": "small",
+              "label": "Right chest",
+              "panel": "front",
+              "camera": "front",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "full_front"
+              ]
+            },
+            {
+              "id": "full_back",
+              "rect": {
+                "hIn": 14,
+                "wIn": 12,
+                "xIn": 4.244402585402213,
+                "yIn": 5
+              },
+              "group": "large",
+              "label": "Full back",
+              "panel": "back",
+              "camera": "back",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "upper_back",
+                "lower_back"
+              ]
+            },
+            {
+              "id": "upper_back",
+              "rect": {
+                "hIn": 3,
+                "wIn": 11,
+                "xIn": 4.744402585402213,
+                "yIn": 3.2
+              },
+              "group": "small",
+              "label": "Upper back",
+              "panel": "back",
+              "camera": "back",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "full_back"
+              ]
+            },
+            {
+              "id": "lower_back",
+              "rect": {
+                "hIn": 3,
+                "wIn": 11,
+                "xIn": 4.744402585402213,
+                "yIn": 21.80835610601434
+              },
+              "group": "small",
+              "label": "Lower back",
+              "panel": "back",
+              "camera": "back",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "full_back"
+              ]
+            },
+            {
+              "id": "outside_neck",
+              "rect": {
+                "hIn": 1.3,
+                "wIn": 3,
+                "xIn": 8.744402585402213,
+                "yIn": 1.1
+              },
+              "group": "label",
+              "label": "Outside neck",
+              "panel": "back",
+              "camera": "back",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.1
+            },
+            {
+              "id": "inside_neck",
+              "rect": {
+                "hIn": 2,
+                "wIn": 3,
+                "xIn": 8.744402585402213,
+                "yIn": 1.1
+              },
+              "group": "label",
+              "label": "Inside neck label",
+              "panel": "back_inside",
+              "camera": "neck",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.1
+            },
+            {
+              "id": "left_sleeve",
+              "rect": {
+                "hIn": 3.5,
+                "wIn": 3.5,
+                "xIn": 8.297441624710876,
+                "yIn": 1.6
+              },
+              "group": "sleeve",
+              "label": "Left sleeve",
+              "panel": "left_sleeve",
+              "camera": "left_sleeve",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25
+            },
+            {
+              "id": "right_sleeve",
+              "rect": {
+                "hIn": 3.5,
+                "wIn": 3.5,
+                "xIn": 8.297441624710876,
+                "yIn": 1.6
+              },
+              "group": "sleeve",
+              "label": "Right sleeve",
+              "panel": "right_sleeve",
+              "camera": "right_sleeve",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25
+            }
+          ]
+        },
+        {
+          "id": "oversized-tee",
+          "label": "Oversized Tee",
+          "panels": [
+            {
+              "id": "front",
+              "label": "Front",
+              "widthIn": 22.787549165577616,
+              "heightIn": 30.558977443803975,
+              "colorZone": "body"
+            },
+            {
+              "id": "back",
+              "label": "Back",
+              "widthIn": 22.787549165577616,
+              "heightIn": 30.558977443803975,
+              "colorZone": "body"
+            },
+            {
+              "id": "back_inside",
+              "label": "Inside back",
+              "widthIn": 22.787549165577616,
+              "heightIn": 30.558977443803975,
+              "colorZone": "body"
+            },
+            {
+              "id": "left_sleeve",
+              "label": "Left sleeve",
+              "widthIn": 21.256769876425402,
+              "heightIn": 10,
+              "colorZone": "body"
+            },
+            {
+              "id": "right_sleeve",
+              "label": "Right sleeve",
+              "widthIn": 21.256769876425402,
+              "heightIn": 10,
+              "colorZone": "body"
+            }
+          ],
+          "source": {
+            "type": "procedural",
+            "garment": {
+              "drop": 1.14,
+              "kind": "tee",
+              "collar": "crew",
+              "chestIn": 20,
+              "lengthIn": 30,
+              "sleeveLengthIn": 10
+            }
+          },
+          "license": {
+            "author": "Generated in-code (procedural geometry)",
+            "source": "internal",
+            "license": "Proprietary – owned by platform operator",
+            "modifications": "n/a – authored in-house",
+            "redistribution": "embedded-only",
+            "attributionRequired": false
+          },
+          "colorZones": [
+            {
+              "id": "body",
+              "label": "Body"
+            }
+          ],
+          "printAreas": [
+            {
+              "id": "full_front",
+              "rect": {
+                "hIn": 14,
+                "wIn": 12,
+                "xIn": 5.393774582788808,
+                "yIn": 4
+              },
+              "group": "large",
+              "label": "Full front",
+              "panel": "front",
+              "camera": "front",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "left_chest",
+                "right_chest"
+              ]
+            },
+            {
+              "id": "left_chest",
+              "rect": {
+                "hIn": 4,
+                "wIn": 4,
+                "xIn": 13.893774582788808,
+                "yIn": 4.2
+              },
+              "group": "small",
+              "label": "Left chest",
+              "panel": "front",
+              "camera": "front",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "full_front"
+              ]
+            },
+            {
+              "id": "right_chest",
+              "rect": {
+                "hIn": 4,
+                "wIn": 4,
+                "xIn": 4.893774582788808,
+                "yIn": 4.2
+              },
+              "group": "small",
+              "label": "Right chest",
+              "panel": "front",
+              "camera": "front",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "full_front"
+              ]
+            },
+            {
+              "id": "full_back",
+              "rect": {
+                "hIn": 14,
+                "wIn": 12,
+                "xIn": 5.393774582788808,
+                "yIn": 5
+              },
+              "group": "large",
+              "label": "Full back",
+              "panel": "back",
+              "camera": "back",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "upper_back",
+                "lower_back"
+              ]
+            },
+            {
+              "id": "upper_back",
+              "rect": {
+                "hIn": 3,
+                "wIn": 11,
+                "xIn": 5.893774582788808,
+                "yIn": 3.2
+              },
+              "group": "small",
+              "label": "Upper back",
+              "panel": "back",
+              "camera": "back",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "full_back"
+              ]
+            },
+            {
+              "id": "lower_back",
+              "rect": {
+                "hIn": 3,
+                "wIn": 11,
+                "xIn": 5.893774582788808,
+                "yIn": 23.058977443803975
+              },
+              "group": "small",
+              "label": "Lower back",
+              "panel": "back",
+              "camera": "back",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "full_back"
+              ]
+            },
+            {
+              "id": "outside_neck",
+              "rect": {
+                "hIn": 1.3,
+                "wIn": 3,
+                "xIn": 9.893774582788808,
+                "yIn": 1.1
+              },
+              "group": "label",
+              "label": "Outside neck",
+              "panel": "back",
+              "camera": "back",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.1
+            },
+            {
+              "id": "inside_neck",
+              "rect": {
+                "hIn": 2,
+                "wIn": 3,
+                "xIn": 9.893774582788808,
+                "yIn": 1.1
+              },
+              "group": "label",
+              "label": "Inside neck label",
+              "panel": "back_inside",
+              "camera": "neck",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.1
+            },
+            {
+              "id": "left_sleeve",
+              "rect": {
+                "hIn": 3.5,
+                "wIn": 3.5,
+                "xIn": 8.878384938212701,
+                "yIn": 1.6
+              },
+              "group": "sleeve",
+              "label": "Left sleeve",
+              "panel": "left_sleeve",
+              "camera": "left_sleeve",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25
+            },
+            {
+              "id": "right_sleeve",
+              "rect": {
+                "hIn": 3.5,
+                "wIn": 3.5,
+                "xIn": 8.878384938212701,
+                "yIn": 1.6
+              },
+              "group": "sleeve",
+              "label": "Right sleeve",
+              "panel": "right_sleeve",
+              "camera": "right_sleeve",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25
+            }
+          ]
+        }
+      ],
+      "category": "T-Shirts",
+      "materials": [
+        "cotton",
+        "blend",
+        "polyester"
+      ],
+      "published": true,
+      "description": "Everyday crew-neck tee in three fits.",
+      "printSizing": "constant",
+      "printMethods": [
+        "dtg",
+        "dtf",
+        "screen",
+        "vinyl",
+        "embroidery"
+      ],
+      "defaultMethod": "dtg",
+      "referenceSize": "M",
+      "multiZoneColors": false
+    },
+    {
+      "id": "longsleeve",
+      "slug": "long-sleeve",
+      "sizes": [
+        {
+          "id": "XS",
+          "sku": "LS-XS",
+          "label": "XS",
+          "scale": 0.88,
+          "chestIn": 17,
+          "lengthIn": 27,
+          "sleeveIn": 24,
+          "shoulderIn": 16
+        },
+        {
+          "id": "S",
+          "sku": "LS-S",
+          "label": "S",
+          "scale": 0.94,
+          "chestIn": 18.5,
+          "lengthIn": 28,
+          "sleeveIn": 24.5,
+          "shoulderIn": 17
+        },
+        {
+          "id": "M",
+          "sku": "LS-M",
+          "label": "M",
+          "scale": 1,
+          "chestIn": 20,
+          "lengthIn": 29,
+          "sleeveIn": 24.75,
+          "shoulderIn": 18
+        },
+        {
+          "id": "L",
+          "sku": "LS-L",
+          "label": "L",
+          "scale": 1.06,
+          "chestIn": 22,
+          "lengthIn": 30,
+          "sleeveIn": 25,
+          "shoulderIn": 19.5
+        },
+        {
+          "id": "XL",
+          "sku": "LS-XL",
+          "label": "XL",
+          "scale": 1.12,
+          "chestIn": 24,
+          "lengthIn": 31,
+          "sleeveIn": 25.25,
+          "shoulderIn": 21
+        },
+        {
+          "id": "2XL",
+          "sku": "LS-2XL",
+          "label": "2XL",
+          "scale": 1.18,
+          "chestIn": 26,
+          "lengthIn": 32,
+          "sleeveIn": 25.5,
+          "shoulderIn": 22.5
+        },
+        {
+          "id": "3XL",
+          "sku": "LS-3XL",
+          "label": "3XL",
+          "scale": 1.24,
+          "chestIn": 28,
+          "lengthIn": 33,
+          "sleeveIn": 25.75,
+          "shoulderIn": 24
+        }
+      ],
+      "title": "Long Sleeve Tee",
+      "colors": [
+        {
+          "id": "white",
+          "hex": "#f4f4f1",
+          "name": "White",
+          "mfrId": "00"
+        },
+        {
+          "id": "black",
+          "hex": "#1c1c1e",
+          "name": "Black",
+          "mfrId": "36"
+        },
+        {
+          "id": "navy",
+          "hex": "#1f2a44",
+          "name": "Navy",
+          "mfrId": "32"
+        },
+        {
+          "id": "royal",
+          "hex": "#2250a8",
+          "name": "Royal Blue",
+          "mfrId": "51"
+        },
+        {
+          "id": "red",
+          "hex": "#b3202c",
+          "name": "Red",
+          "mfrId": "40"
+        },
+        {
+          "id": "forest",
+          "hex": "#26452f",
+          "name": "Forest Green",
+          "mfrId": "33"
+        },
+        {
+          "id": "heather",
+          "hex": "#a7a8aa",
+          "name": "Heather Grey",
+          "mfrId": "RS"
+        },
+        {
+          "id": "sand",
+          "hex": "#d8c7a6",
+          "name": "Sand",
+          "mfrId": "6E"
+        },
+        {
+          "id": "maroon",
+          "hex": "#5a1f2b",
+          "name": "Maroon",
+          "mfrId": "38"
+        },
+        {
+          "id": "gold",
+          "hex": "#e2a927",
+          "name": "Gold",
+          "mfrId": "24"
+        }
+      ],
+      "models": [
+        {
+          "id": "longsleeve",
+          "label": "Long Sleeve",
+          "panels": [
+            {
+              "id": "front",
+              "label": "Front",
+              "widthIn": 19.989078215418964,
+              "heightIn": 28.762253497134907,
+              "colorZone": "body"
+            },
+            {
+              "id": "back",
+              "label": "Back",
+              "widthIn": 19.989078215418964,
+              "heightIn": 28.762253497134907,
+              "colorZone": "body"
+            },
+            {
+              "id": "back_inside",
+              "label": "Inside back",
+              "widthIn": 19.989078215418964,
+              "heightIn": 28.762253497134907,
+              "colorZone": "body"
+            },
+            {
+              "id": "left_sleeve",
+              "label": "Left sleeve",
+              "widthIn": 19.842299200073136,
+              "heightIn": 23,
+              "colorZone": "sleeves"
+            },
+            {
+              "id": "right_sleeve",
+              "label": "Right sleeve",
+              "widthIn": 19.842299200073136,
+              "heightIn": 23,
+              "colorZone": "sleeves"
+            },
+            {
+              "id": "left_cuff",
+              "label": "Left cuff",
+              "widthIn": 12.415574166986863,
+              "heightIn": 2.5,
+              "colorZone": "cuffs"
+            },
+            {
+              "id": "right_cuff",
+              "label": "Right cuff",
+              "widthIn": 12.415574166986863,
+              "heightIn": 2.5,
+              "colorZone": "cuffs"
+            }
+          ],
+          "source": {
+            "type": "procedural",
+            "garment": {
+              "kind": "longsleeve",
+              "cuffs": true,
+              "collar": "crew",
+              "chestIn": 20,
+              "lengthIn": 28.5,
+              "sleeveLengthIn": 23
+            }
+          },
+          "license": {
+            "author": "Generated in-code (procedural geometry)",
+            "source": "internal",
+            "license": "Proprietary – owned by platform operator",
+            "modifications": "n/a – authored in-house",
+            "redistribution": "embedded-only",
+            "attributionRequired": false
+          },
+          "colorZones": [
+            {
+              "id": "body",
+              "label": "Body"
+            },
+            {
+              "id": "sleeves",
+              "label": "Sleeves"
+            },
+            {
+              "id": "cuffs",
+              "label": "Cuffs"
+            }
+          ],
+          "printAreas": [
+            {
+              "id": "full_front",
+              "rect": {
+                "hIn": 14,
+                "wIn": 12,
+                "xIn": 3.994539107709482,
+                "yIn": 4
+              },
+              "group": "large",
+              "label": "Full front",
+              "panel": "front",
+              "camera": "front",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "left_chest",
+                "right_chest"
+              ]
+            },
+            {
+              "id": "left_chest",
+              "rect": {
+                "hIn": 4,
+                "wIn": 4,
+                "xIn": 12.494539107709482,
+                "yIn": 4.2
+              },
+              "group": "small",
+              "label": "Left chest",
+              "panel": "front",
+              "camera": "front",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "full_front"
+              ]
+            },
+            {
+              "id": "right_chest",
+              "rect": {
+                "hIn": 4,
+                "wIn": 4,
+                "xIn": 3.494539107709482,
+                "yIn": 4.2
+              },
+              "group": "small",
+              "label": "Right chest",
+              "panel": "front",
+              "camera": "front",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "full_front"
+              ]
+            },
+            {
+              "id": "full_back",
+              "rect": {
+                "hIn": 14,
+                "wIn": 12,
+                "xIn": 3.994539107709482,
+                "yIn": 5
+              },
+              "group": "large",
+              "label": "Full back",
+              "panel": "back",
+              "camera": "back",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "upper_back",
+                "lower_back"
+              ]
+            },
+            {
+              "id": "upper_back",
+              "rect": {
+                "hIn": 3,
+                "wIn": 11,
+                "xIn": 4.494539107709482,
+                "yIn": 3.2
+              },
+              "group": "small",
+              "label": "Upper back",
+              "panel": "back",
+              "camera": "back",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "full_back"
+              ]
+            },
+            {
+              "id": "lower_back",
+              "rect": {
+                "hIn": 3,
+                "wIn": 11,
+                "xIn": 4.494539107709482,
+                "yIn": 21.262253497134907
+              },
+              "group": "small",
+              "label": "Lower back",
+              "panel": "back",
+              "camera": "back",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "full_back"
+              ]
+            },
+            {
+              "id": "outside_neck",
+              "rect": {
+                "hIn": 1.3,
+                "wIn": 3,
+                "xIn": 8.494539107709482,
+                "yIn": 1.1
+              },
+              "group": "label",
+              "label": "Outside neck",
+              "panel": "back",
+              "camera": "back",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.1
+            },
+            {
+              "id": "inside_neck",
+              "rect": {
+                "hIn": 2,
+                "wIn": 3,
+                "xIn": 8.494539107709482,
+                "yIn": 1.1
+              },
+              "group": "label",
+              "label": "Inside neck label",
+              "panel": "back_inside",
+              "camera": "neck",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.1
+            },
+            {
+              "id": "left_sleeve",
+              "rect": {
+                "hIn": 14,
+                "wIn": 3,
+                "xIn": 8.421149600036568,
+                "yIn": 1.6
+              },
+              "group": "sleeve",
+              "label": "Left sleeve",
+              "panel": "left_sleeve",
+              "camera": "left_sleeve",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25
+            },
+            {
+              "id": "right_sleeve",
+              "rect": {
+                "hIn": 14,
+                "wIn": 3,
+                "xIn": 8.421149600036568,
+                "yIn": 1.6
+              },
+              "group": "sleeve",
+              "label": "Right sleeve",
+              "panel": "right_sleeve",
+              "camera": "right_sleeve",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25
+            },
+            {
+              "id": "left_cuff",
+              "rect": {
+                "hIn": 1.4,
+                "wIn": 2.6,
+                "xIn": 4.907787083493432,
+                "yIn": 0.55
+              },
+              "group": "label",
+              "label": "Left cuff",
+              "panel": "left_cuff",
+              "camera": "left_sleeve",
+              "bleedIn": 0,
+              "methods": [
+                "embroidery",
+                "dtf",
+                "vinyl"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.1
+            },
+            {
+              "id": "right_cuff",
+              "rect": {
+                "hIn": 1.4,
+                "wIn": 2.6,
+                "xIn": 4.907787083493432,
+                "yIn": 0.55
+              },
+              "group": "label",
+              "label": "Right cuff",
+              "panel": "right_cuff",
+              "camera": "right_sleeve",
+              "bleedIn": 0,
+              "methods": [
+                "embroidery",
+                "dtf",
+                "vinyl"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.1
+            }
+          ]
+        }
+      ],
+      "category": "T-Shirts",
+      "materials": [
+        "cotton",
+        "blend"
+      ],
+      "published": true,
+      "description": "Crew neck with rib cuffs; sleeve and cuff print zones.",
+      "printSizing": "constant",
+      "printMethods": [
+        "dtg",
+        "dtf",
+        "screen",
+        "vinyl",
+        "embroidery"
+      ],
+      "defaultMethod": "dtg",
+      "referenceSize": "M",
+      "multiZoneColors": true
+    },
+    {
+      "id": "polo",
+      "slug": "polo",
+      "sizes": [
+        {
+          "id": "XS",
+          "sku": "POLO-XS",
+          "label": "XS",
+          "scale": 0.88,
+          "chestIn": 17,
+          "lengthIn": 27,
+          "sleeveIn": 7.5,
+          "shoulderIn": 16
+        },
+        {
+          "id": "S",
+          "sku": "POLO-S",
+          "label": "S",
+          "scale": 0.94,
+          "chestIn": 18.5,
+          "lengthIn": 28,
+          "sleeveIn": 8,
+          "shoulderIn": 17
+        },
+        {
+          "id": "M",
+          "sku": "POLO-M",
+          "label": "M",
+          "scale": 1,
+          "chestIn": 20,
+          "lengthIn": 29,
+          "sleeveIn": 8.25,
+          "shoulderIn": 18
+        },
+        {
+          "id": "L",
+          "sku": "POLO-L",
+          "label": "L",
+          "scale": 1.06,
+          "chestIn": 22,
+          "lengthIn": 30,
+          "sleeveIn": 8.5,
+          "shoulderIn": 19.5
+        },
+        {
+          "id": "XL",
+          "sku": "POLO-XL",
+          "label": "XL",
+          "scale": 1.12,
+          "chestIn": 24,
+          "lengthIn": 31,
+          "sleeveIn": 8.75,
+          "shoulderIn": 21
+        },
+        {
+          "id": "2XL",
+          "sku": "POLO-2XL",
+          "label": "2XL",
+          "scale": 1.18,
+          "chestIn": 26,
+          "lengthIn": 32,
+          "sleeveIn": 9,
+          "shoulderIn": 22.5
+        },
+        {
+          "id": "3XL",
+          "sku": "POLO-3XL",
+          "label": "3XL",
+          "scale": 1.24,
+          "chestIn": 28,
+          "lengthIn": 33,
+          "sleeveIn": 9.25,
+          "shoulderIn": 24
+        }
+      ],
+      "title": "Piqué Polo",
+      "colors": [
+        {
+          "id": "white",
+          "hex": "#f4f4f1",
+          "name": "White",
+          "mfrId": "00"
+        },
+        {
+          "id": "black",
+          "hex": "#1c1c1e",
+          "name": "Black",
+          "mfrId": "36"
+        },
+        {
+          "id": "navy",
+          "hex": "#1f2a44",
+          "name": "Navy",
+          "mfrId": "32"
+        },
+        {
+          "id": "royal",
+          "hex": "#2250a8",
+          "name": "Royal Blue",
+          "mfrId": "51"
+        },
+        {
+          "id": "red",
+          "hex": "#b3202c",
+          "name": "Red",
+          "mfrId": "40"
+        },
+        {
+          "id": "forest",
+          "hex": "#26452f",
+          "name": "Forest Green",
+          "mfrId": "33"
+        },
+        {
+          "id": "heather",
+          "hex": "#a7a8aa",
+          "name": "Heather Grey",
+          "mfrId": "RS"
+        },
+        {
+          "id": "sand",
+          "hex": "#d8c7a6",
+          "name": "Sand",
+          "mfrId": "6E"
+        },
+        {
+          "id": "maroon",
+          "hex": "#5a1f2b",
+          "name": "Maroon",
+          "mfrId": "38"
+        },
+        {
+          "id": "gold",
+          "hex": "#e2a927",
+          "name": "Gold",
+          "mfrId": "24"
+        }
+      ],
+      "models": [
+        {
+          "id": "polo",
+          "label": "Polo",
+          "panels": [
+            {
+              "id": "front",
+              "label": "Front",
+              "widthIn": 20.488805170804426,
+              "heightIn": 28.808446836165206,
+              "colorZone": "body"
+            },
+            {
+              "id": "back",
+              "label": "Back",
+              "widthIn": 20.488805170804426,
+              "heightIn": 28.808446836165206,
+              "colorZone": "body"
+            },
+            {
+              "id": "back_inside",
+              "label": "Inside back",
+              "widthIn": 20.488805170804426,
+              "heightIn": 28.808446836165206,
+              "colorZone": "body"
+            },
+            {
+              "id": "left_sleeve",
+              "label": "Left sleeve",
+              "widthIn": 20.094883249421752,
+              "heightIn": 8.5,
+              "colorZone": "sleeves"
+            },
+            {
+              "id": "right_sleeve",
+              "label": "Right sleeve",
+              "widthIn": 20.094883249421752,
+              "heightIn": 8.5,
+              "colorZone": "sleeves"
+            },
+            {
+              "id": "collar",
+              "label": "Collar",
+              "widthIn": 21.102828144027523,
+              "heightIn": 1.8,
+              "colorZone": "collar"
+            }
+          ],
+          "source": {
+            "type": "procedural",
+            "garment": {
+              "kind": "polo",
+              "collar": "polo",
+              "chestIn": 20.5,
+              "placket": true,
+              "lengthIn": 28.5,
+              "sleeveLengthIn": 8.5
+            }
+          },
+          "license": {
+            "author": "Generated in-code (procedural geometry)",
+            "source": "internal",
+            "license": "Proprietary – owned by platform operator",
+            "modifications": "n/a – authored in-house",
+            "redistribution": "embedded-only",
+            "attributionRequired": false
+          },
+          "colorZones": [
+            {
+              "id": "body",
+              "label": "Body"
+            },
+            {
+              "id": "sleeves",
+              "label": "Sleeves"
+            },
+            {
+              "id": "collar",
+              "label": "Collar"
+            }
+          ],
+          "printAreas": [
+            {
+              "id": "full_front",
+              "rect": {
+                "hIn": 14,
+                "wIn": 12,
+                "xIn": 4.244402585402213,
+                "yIn": 4
+              },
+              "group": "large",
+              "label": "Full front",
+              "panel": "front",
+              "camera": "front",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl"
+              ],
+              "exclusions": [
+                {
+                  "id": "ob0",
+                  "hIn": 3,
+                  "wIn": 1.5999999999999996,
+                  "xIn": 5.199999999999999,
+                  "yIn": 0,
+                  "kind": "button",
+                  "label": "Polo placket"
+                }
+              ],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "left_chest",
+                "right_chest"
+              ]
+            },
+            {
+              "id": "left_chest",
+              "rect": {
+                "hIn": 4,
+                "wIn": 4,
+                "xIn": 12.744402585402213,
+                "yIn": 4.2
+              },
+              "group": "small",
+              "label": "Left chest",
+              "panel": "front",
+              "camera": "front",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "full_front"
+              ]
+            },
+            {
+              "id": "right_chest",
+              "rect": {
+                "hIn": 4,
+                "wIn": 4,
+                "xIn": 3.744402585402213,
+                "yIn": 4.2
+              },
+              "group": "small",
+              "label": "Right chest",
+              "panel": "front",
+              "camera": "front",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "full_front"
+              ]
+            },
+            {
+              "id": "full_back",
+              "rect": {
+                "hIn": 14,
+                "wIn": 12,
+                "xIn": 4.244402585402213,
+                "yIn": 5
+              },
+              "group": "large",
+              "label": "Full back",
+              "panel": "back",
+              "camera": "back",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "upper_back",
+                "lower_back"
+              ]
+            },
+            {
+              "id": "upper_back",
+              "rect": {
+                "hIn": 3,
+                "wIn": 11,
+                "xIn": 4.744402585402213,
+                "yIn": 3.2
+              },
+              "group": "small",
+              "label": "Upper back",
+              "panel": "back",
+              "camera": "back",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "full_back"
+              ]
+            },
+            {
+              "id": "lower_back",
+              "rect": {
+                "hIn": 3,
+                "wIn": 11,
+                "xIn": 4.744402585402213,
+                "yIn": 21.308446836165206
+              },
+              "group": "small",
+              "label": "Lower back",
+              "panel": "back",
+              "camera": "back",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "full_back"
+              ]
+            },
+            {
+              "id": "outside_neck",
+              "rect": {
+                "hIn": 1.3,
+                "wIn": 3,
+                "xIn": 8.744402585402213,
+                "yIn": 1.1
+              },
+              "group": "label",
+              "label": "Outside neck",
+              "panel": "back",
+              "camera": "back",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.1
+            },
+            {
+              "id": "inside_neck",
+              "rect": {
+                "hIn": 2,
+                "wIn": 3,
+                "xIn": 8.744402585402213,
+                "yIn": 1.1
+              },
+              "group": "label",
+              "label": "Inside neck label",
+              "panel": "back_inside",
+              "camera": "neck",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.1
+            },
+            {
+              "id": "left_sleeve",
+              "rect": {
+                "hIn": 3.5,
+                "wIn": 3.5,
+                "xIn": 8.297441624710876,
+                "yIn": 1.6
+              },
+              "group": "sleeve",
+              "label": "Left sleeve",
+              "panel": "left_sleeve",
+              "camera": "left_sleeve",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25
+            },
+            {
+              "id": "right_sleeve",
+              "rect": {
+                "hIn": 3.5,
+                "wIn": 3.5,
+                "xIn": 8.297441624710876,
+                "yIn": 1.6
+              },
+              "group": "sleeve",
+              "label": "Right sleeve",
+              "panel": "right_sleeve",
+              "camera": "right_sleeve",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25
+            },
+            {
+              "id": "collar",
+              "rect": {
+                "hIn": 1.1,
+                "wIn": 4,
+                "xIn": 8.551414072013761,
+                "yIn": 0.35
+              },
+              "group": "label",
+              "label": "Collar",
+              "panel": "collar",
+              "camera": "neck",
+              "bleedIn": 0,
+              "methods": [
+                "embroidery",
+                "dtf"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.1
+            }
+          ]
+        }
+      ],
+      "category": "Polos",
+      "materials": [
+        "pique",
+        "performance"
+      ],
+      "published": true,
+      "description": "Three-button placket polo, ideal for embroidered logos.",
+      "printSizing": "constant",
+      "printMethods": [
+        "embroidery",
+        "dtf",
+        "vinyl",
+        "screen"
+      ],
+      "defaultMethod": "embroidery",
+      "referenceSize": "M",
+      "multiZoneColors": true
+    },
+    {
+      "id": "hoodie",
+      "slug": "hoodie",
+      "sizes": [
+        {
+          "id": "XS",
+          "sku": "HD-XS",
+          "label": "XS",
+          "scale": 0.88,
+          "chestIn": 17,
+          "lengthIn": 27,
+          "sleeveIn": 24,
+          "shoulderIn": 16
+        },
+        {
+          "id": "S",
+          "sku": "HD-S",
+          "label": "S",
+          "scale": 0.94,
+          "chestIn": 18.5,
+          "lengthIn": 28,
+          "sleeveIn": 24.5,
+          "shoulderIn": 17
+        },
+        {
+          "id": "M",
+          "sku": "HD-M",
+          "label": "M",
+          "scale": 1,
+          "chestIn": 20,
+          "lengthIn": 29,
+          "sleeveIn": 24.75,
+          "shoulderIn": 18
+        },
+        {
+          "id": "L",
+          "sku": "HD-L",
+          "label": "L",
+          "scale": 1.06,
+          "chestIn": 22,
+          "lengthIn": 30,
+          "sleeveIn": 25,
+          "shoulderIn": 19.5
+        },
+        {
+          "id": "XL",
+          "sku": "HD-XL",
+          "label": "XL",
+          "scale": 1.12,
+          "chestIn": 24,
+          "lengthIn": 31,
+          "sleeveIn": 25.25,
+          "shoulderIn": 21
+        },
+        {
+          "id": "2XL",
+          "sku": "HD-2XL",
+          "label": "2XL",
+          "scale": 1.18,
+          "chestIn": 26,
+          "lengthIn": 32,
+          "sleeveIn": 25.5,
+          "shoulderIn": 22.5
+        },
+        {
+          "id": "3XL",
+          "sku": "HD-3XL",
+          "label": "3XL",
+          "scale": 1.24,
+          "chestIn": 28,
+          "lengthIn": 33,
+          "sleeveIn": 25.75,
+          "shoulderIn": 24
+        }
+      ],
+      "title": "Pullover Hoodie",
+      "colors": [
+        {
+          "id": "white",
+          "hex": "#f4f4f1",
+          "name": "White",
+          "mfrId": "00"
+        },
+        {
+          "id": "black",
+          "hex": "#1c1c1e",
+          "name": "Black",
+          "mfrId": "36"
+        },
+        {
+          "id": "navy",
+          "hex": "#1f2a44",
+          "name": "Navy",
+          "mfrId": "32"
+        },
+        {
+          "id": "royal",
+          "hex": "#2250a8",
+          "name": "Royal Blue",
+          "mfrId": "51"
+        },
+        {
+          "id": "red",
+          "hex": "#b3202c",
+          "name": "Red",
+          "mfrId": "40"
+        },
+        {
+          "id": "forest",
+          "hex": "#26452f",
+          "name": "Forest Green",
+          "mfrId": "33"
+        },
+        {
+          "id": "heather",
+          "hex": "#a7a8aa",
+          "name": "Heather Grey",
+          "mfrId": "RS"
+        },
+        {
+          "id": "sand",
+          "hex": "#d8c7a6",
+          "name": "Sand",
+          "mfrId": "6E"
+        },
+        {
+          "id": "maroon",
+          "hex": "#5a1f2b",
+          "name": "Maroon",
+          "mfrId": "38"
+        },
+        {
+          "id": "gold",
+          "hex": "#e2a927",
+          "name": "Gold",
+          "mfrId": "24"
+        }
+      ],
+      "models": [
+        {
+          "id": "hoodie",
+          "label": "Hoodie",
+          "panels": [
+            {
+              "id": "front",
+              "label": "Front",
+              "widthIn": 22.575070425476692,
+              "heightIn": 27.999704653465248,
+              "colorZone": "body"
+            },
+            {
+              "id": "back",
+              "label": "Back",
+              "widthIn": 22.575070425476692,
+              "heightIn": 27.999704653465248,
+              "colorZone": "body"
+            },
+            {
+              "id": "back_inside",
+              "label": "Inside back",
+              "widthIn": 22.575070425476692,
+              "heightIn": 27.999704653465248,
+              "colorZone": "body"
+            },
+            {
+              "id": "left_sleeve",
+              "label": "Left sleeve",
+              "widthIn": 20.852635397467612,
+              "heightIn": 24,
+              "colorZone": "sleeves"
+            },
+            {
+              "id": "right_sleeve",
+              "label": "Right sleeve",
+              "widthIn": 20.852635397467612,
+              "heightIn": 24,
+              "colorZone": "sleeves"
+            },
+            {
+              "id": "left_cuff",
+              "label": "Left cuff",
+              "widthIn": 12.415574166986863,
+              "heightIn": 2.5,
+              "colorZone": "cuffs"
+            },
+            {
+              "id": "right_cuff",
+              "label": "Right cuff",
+              "widthIn": 12.415574166986863,
+              "heightIn": 2.5,
+              "colorZone": "cuffs"
+            }
+          ],
+          "source": {
+            "type": "procedural",
+            "garment": {
+              "kind": "hoodie",
+              "cuffs": true,
+              "collar": "hood",
+              "pocket": true,
+              "chestIn": 22,
+              "lengthIn": 27.5,
+              "sleeveLengthIn": 24
+            }
+          },
+          "license": {
+            "author": "Generated in-code (procedural geometry)",
+            "source": "internal",
+            "license": "Proprietary – owned by platform operator",
+            "modifications": "n/a – authored in-house",
+            "redistribution": "embedded-only",
+            "attributionRequired": false
+          },
+          "colorZones": [
+            {
+              "id": "body",
+              "label": "Body"
+            },
+            {
+              "id": "sleeves",
+              "label": "Sleeves"
+            },
+            {
+              "id": "cuffs",
+              "label": "Cuffs"
+            }
+          ],
+          "printAreas": [
+            {
+              "id": "full_front",
+              "rect": {
+                "hIn": 11.499704653465248,
+                "wIn": 12,
+                "xIn": 5.287535212738346,
+                "yIn": 5
+              },
+              "group": "large",
+              "label": "Full front",
+              "panel": "front",
+              "camera": "front",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "left_chest",
+                "right_chest"
+              ]
+            },
+            {
+              "id": "left_chest",
+              "rect": {
+                "hIn": 4,
+                "wIn": 4,
+                "xIn": 13.787535212738346,
+                "yIn": 5.5
+              },
+              "group": "small",
+              "label": "Left chest",
+              "panel": "front",
+              "camera": "front",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "full_front"
+              ]
+            },
+            {
+              "id": "right_chest",
+              "rect": {
+                "hIn": 4,
+                "wIn": 4,
+                "xIn": 4.787535212738346,
+                "yIn": 5.5
+              },
+              "group": "small",
+              "label": "Right chest",
+              "panel": "front",
+              "camera": "front",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "full_front"
+              ]
+            },
+            {
+              "id": "full_back",
+              "rect": {
+                "hIn": 14,
+                "wIn": 12,
+                "xIn": 5.287535212738346,
+                "yIn": 5
+              },
+              "group": "large",
+              "label": "Full back",
+              "panel": "back",
+              "camera": "back",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "upper_back",
+                "lower_back"
+              ]
+            },
+            {
+              "id": "upper_back",
+              "rect": {
+                "hIn": 3,
+                "wIn": 11,
+                "xIn": 5.787535212738346,
+                "yIn": 3.2
+              },
+              "group": "small",
+              "label": "Upper back",
+              "panel": "back",
+              "camera": "back",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "full_back"
+              ]
+            },
+            {
+              "id": "lower_back",
+              "rect": {
+                "hIn": 3,
+                "wIn": 11,
+                "xIn": 5.787535212738346,
+                "yIn": 20.499704653465248
+              },
+              "group": "small",
+              "label": "Lower back",
+              "panel": "back",
+              "camera": "back",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "full_back"
+              ]
+            },
+            {
+              "id": "left_sleeve",
+              "rect": {
+                "hIn": 14,
+                "wIn": 3,
+                "xIn": 8.926317698733806,
+                "yIn": 1.6
+              },
+              "group": "sleeve",
+              "label": "Left sleeve",
+              "panel": "left_sleeve",
+              "camera": "left_sleeve",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25
+            },
+            {
+              "id": "right_sleeve",
+              "rect": {
+                "hIn": 14,
+                "wIn": 3,
+                "xIn": 8.926317698733806,
+                "yIn": 1.6
+              },
+              "group": "sleeve",
+              "label": "Right sleeve",
+              "panel": "right_sleeve",
+              "camera": "right_sleeve",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25
+            },
+            {
+              "id": "left_cuff",
+              "rect": {
+                "hIn": 1.4,
+                "wIn": 2.6,
+                "xIn": 4.907787083493432,
+                "yIn": 0.55
+              },
+              "group": "label",
+              "label": "Left cuff",
+              "panel": "left_cuff",
+              "camera": "left_sleeve",
+              "bleedIn": 0,
+              "methods": [
+                "embroidery",
+                "dtf",
+                "vinyl"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.1
+            },
+            {
+              "id": "right_cuff",
+              "rect": {
+                "hIn": 1.4,
+                "wIn": 2.6,
+                "xIn": 4.907787083493432,
+                "yIn": 0.55
+              },
+              "group": "label",
+              "label": "Right cuff",
+              "panel": "right_cuff",
+              "camera": "right_sleeve",
+              "bleedIn": 0,
+              "methods": [
+                "embroidery",
+                "dtf",
+                "vinyl"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.1
+            }
+          ]
+        }
+      ],
+      "category": "Sweats",
+      "materials": [
+        "fleece"
+      ],
+      "published": true,
+      "description": "Heavyweight fleece hoodie with kangaroo pocket.",
+      "printSizing": "constant",
+      "printMethods": [
+        "dtg",
+        "dtf",
+        "screen",
+        "embroidery",
+        "vinyl"
+      ],
+      "defaultMethod": "dtf",
+      "referenceSize": "M",
+      "multiZoneColors": true
+    },
+    {
+      "id": "sweatshirt",
+      "slug": "sweatshirt",
+      "sizes": [
+        {
+          "id": "XS",
+          "sku": "SW-XS",
+          "label": "XS",
+          "scale": 0.88,
+          "chestIn": 17,
+          "lengthIn": 27,
+          "sleeveIn": 24,
+          "shoulderIn": 16
+        },
+        {
+          "id": "S",
+          "sku": "SW-S",
+          "label": "S",
+          "scale": 0.94,
+          "chestIn": 18.5,
+          "lengthIn": 28,
+          "sleeveIn": 24.5,
+          "shoulderIn": 17
+        },
+        {
+          "id": "M",
+          "sku": "SW-M",
+          "label": "M",
+          "scale": 1,
+          "chestIn": 20,
+          "lengthIn": 29,
+          "sleeveIn": 24.75,
+          "shoulderIn": 18
+        },
+        {
+          "id": "L",
+          "sku": "SW-L",
+          "label": "L",
+          "scale": 1.06,
+          "chestIn": 22,
+          "lengthIn": 30,
+          "sleeveIn": 25,
+          "shoulderIn": 19.5
+        },
+        {
+          "id": "XL",
+          "sku": "SW-XL",
+          "label": "XL",
+          "scale": 1.12,
+          "chestIn": 24,
+          "lengthIn": 31,
+          "sleeveIn": 25.25,
+          "shoulderIn": 21
+        },
+        {
+          "id": "2XL",
+          "sku": "SW-2XL",
+          "label": "2XL",
+          "scale": 1.18,
+          "chestIn": 26,
+          "lengthIn": 32,
+          "sleeveIn": 25.5,
+          "shoulderIn": 22.5
+        },
+        {
+          "id": "3XL",
+          "sku": "SW-3XL",
+          "label": "3XL",
+          "scale": 1.24,
+          "chestIn": 28,
+          "lengthIn": 33,
+          "sleeveIn": 25.75,
+          "shoulderIn": 24
+        }
+      ],
+      "title": "Crew Sweatshirt",
+      "colors": [
+        {
+          "id": "white",
+          "hex": "#f4f4f1",
+          "name": "White",
+          "mfrId": "00"
+        },
+        {
+          "id": "black",
+          "hex": "#1c1c1e",
+          "name": "Black",
+          "mfrId": "36"
+        },
+        {
+          "id": "navy",
+          "hex": "#1f2a44",
+          "name": "Navy",
+          "mfrId": "32"
+        },
+        {
+          "id": "royal",
+          "hex": "#2250a8",
+          "name": "Royal Blue",
+          "mfrId": "51"
+        },
+        {
+          "id": "red",
+          "hex": "#b3202c",
+          "name": "Red",
+          "mfrId": "40"
+        },
+        {
+          "id": "forest",
+          "hex": "#26452f",
+          "name": "Forest Green",
+          "mfrId": "33"
+        },
+        {
+          "id": "heather",
+          "hex": "#a7a8aa",
+          "name": "Heather Grey",
+          "mfrId": "RS"
+        },
+        {
+          "id": "sand",
+          "hex": "#d8c7a6",
+          "name": "Sand",
+          "mfrId": "6E"
+        },
+        {
+          "id": "maroon",
+          "hex": "#5a1f2b",
+          "name": "Maroon",
+          "mfrId": "38"
+        },
+        {
+          "id": "gold",
+          "hex": "#e2a927",
+          "name": "Gold",
+          "mfrId": "24"
+        }
+      ],
+      "models": [
+        {
+          "id": "sweatshirt",
+          "label": "Sweatshirt",
+          "panels": [
+            {
+              "id": "front",
+              "label": "Front",
+              "widthIn": 21.987986036960837,
+              "heightIn": 27.465861336444537,
+              "colorZone": "body"
+            },
+            {
+              "id": "back",
+              "label": "Back",
+              "widthIn": 21.987986036960837,
+              "heightIn": 27.465861336444537,
+              "colorZone": "body"
+            },
+            {
+              "id": "back_inside",
+              "label": "Inside back",
+              "widthIn": 21.987986036960837,
+              "heightIn": 27.465861336444537,
+              "colorZone": "body"
+            },
+            {
+              "id": "left_sleeve",
+              "label": "Left sleeve",
+              "widthIn": 20.852635397467612,
+              "heightIn": 24,
+              "colorZone": "sleeves"
+            },
+            {
+              "id": "right_sleeve",
+              "label": "Right sleeve",
+              "widthIn": 20.852635397467612,
+              "heightIn": 24,
+              "colorZone": "sleeves"
+            },
+            {
+              "id": "left_cuff",
+              "label": "Left cuff",
+              "widthIn": 12.415574166986863,
+              "heightIn": 2.5,
+              "colorZone": "cuffs"
+            },
+            {
+              "id": "right_cuff",
+              "label": "Right cuff",
+              "widthIn": 12.415574166986863,
+              "heightIn": 2.5,
+              "colorZone": "cuffs"
+            }
+          ],
+          "source": {
+            "type": "procedural",
+            "garment": {
+              "kind": "longsleeve",
+              "cuffs": true,
+              "collar": "crew",
+              "chestIn": 22,
+              "lengthIn": 27,
+              "sleeveLengthIn": 24
+            }
+          },
+          "license": {
+            "author": "Generated in-code (procedural geometry)",
+            "source": "internal",
+            "license": "Proprietary – owned by platform operator",
+            "modifications": "n/a – authored in-house",
+            "redistribution": "embedded-only",
+            "attributionRequired": false
+          },
+          "colorZones": [
+            {
+              "id": "body",
+              "label": "Body"
+            },
+            {
+              "id": "sleeves",
+              "label": "Sleeves"
+            },
+            {
+              "id": "cuffs",
+              "label": "Cuffs"
+            }
+          ],
+          "printAreas": [
+            {
+              "id": "full_front",
+              "rect": {
+                "hIn": 14,
+                "wIn": 12,
+                "xIn": 4.993993018480419,
+                "yIn": 4
+              },
+              "group": "large",
+              "label": "Full front",
+              "panel": "front",
+              "camera": "front",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "left_chest",
+                "right_chest"
+              ]
+            },
+            {
+              "id": "left_chest",
+              "rect": {
+                "hIn": 4,
+                "wIn": 4,
+                "xIn": 13.493993018480419,
+                "yIn": 4.2
+              },
+              "group": "small",
+              "label": "Left chest",
+              "panel": "front",
+              "camera": "front",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "full_front"
+              ]
+            },
+            {
+              "id": "right_chest",
+              "rect": {
+                "hIn": 4,
+                "wIn": 4,
+                "xIn": 4.493993018480419,
+                "yIn": 4.2
+              },
+              "group": "small",
+              "label": "Right chest",
+              "panel": "front",
+              "camera": "front",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "full_front"
+              ]
+            },
+            {
+              "id": "full_back",
+              "rect": {
+                "hIn": 14,
+                "wIn": 12,
+                "xIn": 4.993993018480419,
+                "yIn": 5
+              },
+              "group": "large",
+              "label": "Full back",
+              "panel": "back",
+              "camera": "back",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "upper_back",
+                "lower_back"
+              ]
+            },
+            {
+              "id": "upper_back",
+              "rect": {
+                "hIn": 3,
+                "wIn": 11,
+                "xIn": 5.493993018480419,
+                "yIn": 3.2
+              },
+              "group": "small",
+              "label": "Upper back",
+              "panel": "back",
+              "camera": "back",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "full_back"
+              ]
+            },
+            {
+              "id": "lower_back",
+              "rect": {
+                "hIn": 3,
+                "wIn": 11,
+                "xIn": 5.493993018480419,
+                "yIn": 19.965861336444537
+              },
+              "group": "small",
+              "label": "Lower back",
+              "panel": "back",
+              "camera": "back",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "full_back"
+              ]
+            },
+            {
+              "id": "outside_neck",
+              "rect": {
+                "hIn": 1.3,
+                "wIn": 3,
+                "xIn": 9.493993018480419,
+                "yIn": 1.1
+              },
+              "group": "label",
+              "label": "Outside neck",
+              "panel": "back",
+              "camera": "back",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.1
+            },
+            {
+              "id": "inside_neck",
+              "rect": {
+                "hIn": 2,
+                "wIn": 3,
+                "xIn": 9.493993018480419,
+                "yIn": 1.1
+              },
+              "group": "label",
+              "label": "Inside neck label",
+              "panel": "back_inside",
+              "camera": "neck",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.1
+            },
+            {
+              "id": "left_sleeve",
+              "rect": {
+                "hIn": 14,
+                "wIn": 3,
+                "xIn": 8.926317698733806,
+                "yIn": 1.6
+              },
+              "group": "sleeve",
+              "label": "Left sleeve",
+              "panel": "left_sleeve",
+              "camera": "left_sleeve",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25
+            },
+            {
+              "id": "right_sleeve",
+              "rect": {
+                "hIn": 14,
+                "wIn": 3,
+                "xIn": 8.926317698733806,
+                "yIn": 1.6
+              },
+              "group": "sleeve",
+              "label": "Right sleeve",
+              "panel": "right_sleeve",
+              "camera": "right_sleeve",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25
+            },
+            {
+              "id": "left_cuff",
+              "rect": {
+                "hIn": 1.4,
+                "wIn": 2.6,
+                "xIn": 4.907787083493432,
+                "yIn": 0.55
+              },
+              "group": "label",
+              "label": "Left cuff",
+              "panel": "left_cuff",
+              "camera": "left_sleeve",
+              "bleedIn": 0,
+              "methods": [
+                "embroidery",
+                "dtf",
+                "vinyl"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.1
+            },
+            {
+              "id": "right_cuff",
+              "rect": {
+                "hIn": 1.4,
+                "wIn": 2.6,
+                "xIn": 4.907787083493432,
+                "yIn": 0.55
+              },
+              "group": "label",
+              "label": "Right cuff",
+              "panel": "right_cuff",
+              "camera": "right_sleeve",
+              "bleedIn": 0,
+              "methods": [
+                "embroidery",
+                "dtf",
+                "vinyl"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.1
+            }
+          ]
+        }
+      ],
+      "category": "Sweats",
+      "materials": [
+        "fleece"
+      ],
+      "published": true,
+      "description": "Classic crew sweatshirt with rib cuffs.",
+      "printSizing": "constant",
+      "printMethods": [
+        "dtg",
+        "dtf",
+        "screen",
+        "embroidery"
+      ],
+      "defaultMethod": "dtf",
+      "referenceSize": "M",
+      "multiZoneColors": true
+    },
+    {
+      "id": "tank",
+      "slug": "tank-top",
+      "sizes": [
+        {
+          "id": "XS",
+          "sku": "TK-XS",
+          "label": "XS",
+          "scale": 0.88,
+          "chestIn": 17,
+          "lengthIn": 27,
+          "sleeveIn": 7.5,
+          "shoulderIn": 16
+        },
+        {
+          "id": "S",
+          "sku": "TK-S",
+          "label": "S",
+          "scale": 0.94,
+          "chestIn": 18.5,
+          "lengthIn": 28,
+          "sleeveIn": 8,
+          "shoulderIn": 17
+        },
+        {
+          "id": "M",
+          "sku": "TK-M",
+          "label": "M",
+          "scale": 1,
+          "chestIn": 20,
+          "lengthIn": 29,
+          "sleeveIn": 8.25,
+          "shoulderIn": 18
+        },
+        {
+          "id": "L",
+          "sku": "TK-L",
+          "label": "L",
+          "scale": 1.06,
+          "chestIn": 22,
+          "lengthIn": 30,
+          "sleeveIn": 8.5,
+          "shoulderIn": 19.5
+        },
+        {
+          "id": "XL",
+          "sku": "TK-XL",
+          "label": "XL",
+          "scale": 1.12,
+          "chestIn": 24,
+          "lengthIn": 31,
+          "sleeveIn": 8.75,
+          "shoulderIn": 21
+        },
+        {
+          "id": "2XL",
+          "sku": "TK-2XL",
+          "label": "2XL",
+          "scale": 1.18,
+          "chestIn": 26,
+          "lengthIn": 32,
+          "sleeveIn": 9,
+          "shoulderIn": 22.5
+        },
+        {
+          "id": "3XL",
+          "sku": "TK-3XL",
+          "label": "3XL",
+          "scale": 1.24,
+          "chestIn": 28,
+          "lengthIn": 33,
+          "sleeveIn": 9.25,
+          "shoulderIn": 24
+        }
+      ],
+      "title": "Tank Top",
+      "colors": [
+        {
+          "id": "white",
+          "hex": "#f4f4f1",
+          "name": "White",
+          "mfrId": "00"
+        },
+        {
+          "id": "black",
+          "hex": "#1c1c1e",
+          "name": "Black",
+          "mfrId": "36"
+        },
+        {
+          "id": "navy",
+          "hex": "#1f2a44",
+          "name": "Navy",
+          "mfrId": "32"
+        },
+        {
+          "id": "royal",
+          "hex": "#2250a8",
+          "name": "Royal Blue",
+          "mfrId": "51"
+        },
+        {
+          "id": "red",
+          "hex": "#b3202c",
+          "name": "Red",
+          "mfrId": "40"
+        },
+        {
+          "id": "forest",
+          "hex": "#26452f",
+          "name": "Forest Green",
+          "mfrId": "33"
+        },
+        {
+          "id": "heather",
+          "hex": "#a7a8aa",
+          "name": "Heather Grey",
+          "mfrId": "RS"
+        },
+        {
+          "id": "sand",
+          "hex": "#d8c7a6",
+          "name": "Sand",
+          "mfrId": "6E"
+        },
+        {
+          "id": "maroon",
+          "hex": "#5a1f2b",
+          "name": "Maroon",
+          "mfrId": "38"
+        },
+        {
+          "id": "gold",
+          "hex": "#e2a927",
+          "name": "Gold",
+          "mfrId": "24"
+        }
+      ],
+      "models": [
+        {
+          "id": "tank",
+          "label": "Tank",
+          "panels": [
+            {
+              "id": "front",
+              "label": "Front",
+              "widthIn": 19.48935126003348,
+              "heightIn": 28.719483559542105,
+              "colorZone": "body"
+            },
+            {
+              "id": "back",
+              "label": "Back",
+              "widthIn": 19.48935126003348,
+              "heightIn": 28.719483559542105,
+              "colorZone": "body"
+            },
+            {
+              "id": "back_inside",
+              "label": "Inside back",
+              "widthIn": 19.48935126003348,
+              "heightIn": 28.719483559542105,
+              "colorZone": "body"
+            }
+          ],
+          "source": {
+            "type": "procedural",
+            "garment": {
+              "kind": "tank",
+              "collar": "crew",
+              "chestIn": 19.5,
+              "lengthIn": 28.5,
+              "sleeveLengthIn": 0
+            }
+          },
+          "license": {
+            "author": "Generated in-code (procedural geometry)",
+            "source": "internal",
+            "license": "Proprietary – owned by platform operator",
+            "modifications": "n/a – authored in-house",
+            "redistribution": "embedded-only",
+            "attributionRequired": false
+          },
+          "colorZones": [
+            {
+              "id": "body",
+              "label": "Body"
+            }
+          ],
+          "printAreas": [
+            {
+              "id": "full_front",
+              "rect": {
+                "hIn": 14,
+                "wIn": 12,
+                "xIn": 3.74467563001674,
+                "yIn": 4
+              },
+              "group": "large",
+              "label": "Full front",
+              "panel": "front",
+              "camera": "front",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "left_chest",
+                "right_chest"
+              ]
+            },
+            {
+              "id": "left_chest",
+              "rect": {
+                "hIn": 4,
+                "wIn": 4,
+                "xIn": 12.24467563001674,
+                "yIn": 4.2
+              },
+              "group": "small",
+              "label": "Left chest",
+              "panel": "front",
+              "camera": "front",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "full_front"
+              ]
+            },
+            {
+              "id": "right_chest",
+              "rect": {
+                "hIn": 4,
+                "wIn": 4,
+                "xIn": 3.24467563001674,
+                "yIn": 4.2
+              },
+              "group": "small",
+              "label": "Right chest",
+              "panel": "front",
+              "camera": "front",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "full_front"
+              ]
+            },
+            {
+              "id": "full_back",
+              "rect": {
+                "hIn": 14,
+                "wIn": 12,
+                "xIn": 3.74467563001674,
+                "yIn": 5
+              },
+              "group": "large",
+              "label": "Full back",
+              "panel": "back",
+              "camera": "back",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "upper_back",
+                "lower_back"
+              ]
+            },
+            {
+              "id": "upper_back",
+              "rect": {
+                "hIn": 3,
+                "wIn": 11,
+                "xIn": 4.24467563001674,
+                "yIn": 3.2
+              },
+              "group": "small",
+              "label": "Upper back",
+              "panel": "back",
+              "camera": "back",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "full_back"
+              ]
+            },
+            {
+              "id": "lower_back",
+              "rect": {
+                "hIn": 3,
+                "wIn": 11,
+                "xIn": 4.24467563001674,
+                "yIn": 21.219483559542105
+              },
+              "group": "small",
+              "label": "Lower back",
+              "panel": "back",
+              "camera": "back",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "full_back"
+              ]
+            },
+            {
+              "id": "outside_neck",
+              "rect": {
+                "hIn": 1.3,
+                "wIn": 3,
+                "xIn": 8.24467563001674,
+                "yIn": 1.1
+              },
+              "group": "label",
+              "label": "Outside neck",
+              "panel": "back",
+              "camera": "back",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.1
+            },
+            {
+              "id": "inside_neck",
+              "rect": {
+                "hIn": 2,
+                "wIn": 3,
+                "xIn": 8.24467563001674,
+                "yIn": 1.1
+              },
+              "group": "label",
+              "label": "Inside neck label",
+              "panel": "back_inside",
+              "camera": "neck",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.1
+            }
+          ]
+        }
+      ],
+      "category": "T-Shirts",
+      "materials": [
+        "cotton",
+        "performance"
+      ],
+      "published": true,
+      "description": "Sleeveless training tank.",
+      "printSizing": "constant",
+      "printMethods": [
+        "dtg",
+        "dtf",
+        "screen",
+        "vinyl"
+      ],
+      "defaultMethod": "dtg",
+      "referenceSize": "M",
+      "multiZoneColors": false
+    },
+    {
+      "id": "dress-shirt",
+      "slug": "dress-shirt",
+      "sizes": [
+        {
+          "id": "XS",
+          "sku": "DS-XS",
+          "label": "XS",
+          "scale": 0.88,
+          "chestIn": 17,
+          "lengthIn": 27,
+          "sleeveIn": 24,
+          "shoulderIn": 16
+        },
+        {
+          "id": "S",
+          "sku": "DS-S",
+          "label": "S",
+          "scale": 0.94,
+          "chestIn": 18.5,
+          "lengthIn": 28,
+          "sleeveIn": 24.5,
+          "shoulderIn": 17
+        },
+        {
+          "id": "M",
+          "sku": "DS-M",
+          "label": "M",
+          "scale": 1,
+          "chestIn": 20,
+          "lengthIn": 29,
+          "sleeveIn": 24.75,
+          "shoulderIn": 18
+        },
+        {
+          "id": "L",
+          "sku": "DS-L",
+          "label": "L",
+          "scale": 1.06,
+          "chestIn": 22,
+          "lengthIn": 30,
+          "sleeveIn": 25,
+          "shoulderIn": 19.5
+        },
+        {
+          "id": "XL",
+          "sku": "DS-XL",
+          "label": "XL",
+          "scale": 1.12,
+          "chestIn": 24,
+          "lengthIn": 31,
+          "sleeveIn": 25.25,
+          "shoulderIn": 21
+        },
+        {
+          "id": "2XL",
+          "sku": "DS-2XL",
+          "label": "2XL",
+          "scale": 1.18,
+          "chestIn": 26,
+          "lengthIn": 32,
+          "sleeveIn": 25.5,
+          "shoulderIn": 22.5
+        },
+        {
+          "id": "3XL",
+          "sku": "DS-3XL",
+          "label": "3XL",
+          "scale": 1.24,
+          "chestIn": 28,
+          "lengthIn": 33,
+          "sleeveIn": 25.75,
+          "shoulderIn": 24
+        }
+      ],
+      "title": "Oxford Dress Shirt",
+      "colors": [
+        {
+          "id": "white",
+          "hex": "#f4f4f1",
+          "name": "White",
+          "mfrId": "00"
+        },
+        {
+          "id": "black",
+          "hex": "#1c1c1e",
+          "name": "Black",
+          "mfrId": "36"
+        },
+        {
+          "id": "navy",
+          "hex": "#1f2a44",
+          "name": "Navy",
+          "mfrId": "32"
+        },
+        {
+          "id": "royal",
+          "hex": "#2250a8",
+          "name": "Royal Blue",
+          "mfrId": "51"
+        },
+        {
+          "id": "heather",
+          "hex": "#a7a8aa",
+          "name": "Heather Grey",
+          "mfrId": "RS"
+        }
+      ],
+      "models": [
+        {
+          "id": "dress-shirt",
+          "label": "Dress Shirt",
+          "panels": [
+            {
+              "id": "front",
+              "label": "Front",
+              "widthIn": 20.988532126189902,
+              "heightIn": 30.357583084042236,
+              "colorZone": "body"
+            },
+            {
+              "id": "back",
+              "label": "Back",
+              "widthIn": 20.988532126189902,
+              "heightIn": 30.357583084042236,
+              "colorZone": "body"
+            },
+            {
+              "id": "back_inside",
+              "label": "Inside back",
+              "widthIn": 20.988532126189902,
+              "heightIn": 30.357583084042236,
+              "colorZone": "body"
+            },
+            {
+              "id": "left_sleeve",
+              "label": "Left sleeve",
+              "widthIn": 20.347467298770376,
+              "heightIn": 24,
+              "colorZone": "sleeves"
+            },
+            {
+              "id": "right_sleeve",
+              "label": "Right sleeve",
+              "widthIn": 20.347467298770376,
+              "heightIn": 24,
+              "colorZone": "sleeves"
+            },
+            {
+              "id": "left_cuff",
+              "label": "Left cuff",
+              "widthIn": 12.415574166986863,
+              "heightIn": 2.5,
+              "colorZone": "cuffs"
+            },
+            {
+              "id": "right_cuff",
+              "label": "Right cuff",
+              "widthIn": 12.415574166986863,
+              "heightIn": 2.5,
+              "colorZone": "cuffs"
+            },
+            {
+              "id": "collar",
+              "label": "Collar",
+              "widthIn": 21.102828144027523,
+              "heightIn": 1.8,
+              "colorZone": "collar"
+            }
+          ],
+          "source": {
+            "type": "procedural",
+            "garment": {
+              "kind": "dress",
+              "cuffs": true,
+              "collar": "dress",
+              "chestIn": 21,
+              "placket": true,
+              "lengthIn": 30,
+              "sleeveLengthIn": 24
+            }
+          },
+          "license": {
+            "author": "Generated in-code (procedural geometry)",
+            "source": "internal",
+            "license": "Proprietary – owned by platform operator",
+            "modifications": "n/a – authored in-house",
+            "redistribution": "embedded-only",
+            "attributionRequired": false
+          },
+          "colorZones": [
+            {
+              "id": "body",
+              "label": "Body"
+            },
+            {
+              "id": "sleeves",
+              "label": "Sleeves"
+            },
+            {
+              "id": "cuffs",
+              "label": "Cuffs"
+            },
+            {
+              "id": "collar",
+              "label": "Collar"
+            }
+          ],
+          "printAreas": [
+            {
+              "id": "left_chest",
+              "rect": {
+                "hIn": 4,
+                "wIn": 4,
+                "xIn": 12.994266063094951,
+                "yIn": 4.2
+              },
+              "group": "small",
+              "label": "Left chest",
+              "panel": "front",
+              "camera": "front",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": []
+            },
+            {
+              "id": "right_chest",
+              "rect": {
+                "hIn": 4,
+                "wIn": 4,
+                "xIn": 3.994266063094951,
+                "yIn": 4.2
+              },
+              "group": "small",
+              "label": "Right chest",
+              "panel": "front",
+              "camera": "front",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": []
+            },
+            {
+              "id": "full_back",
+              "rect": {
+                "hIn": 14,
+                "wIn": 12,
+                "xIn": 4.494266063094951,
+                "yIn": 5
+              },
+              "group": "large",
+              "label": "Full back",
+              "panel": "back",
+              "camera": "back",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "upper_back",
+                "lower_back"
+              ]
+            },
+            {
+              "id": "upper_back",
+              "rect": {
+                "hIn": 3,
+                "wIn": 11,
+                "xIn": 4.994266063094951,
+                "yIn": 3.2
+              },
+              "group": "small",
+              "label": "Upper back",
+              "panel": "back",
+              "camera": "back",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "full_back"
+              ]
+            },
+            {
+              "id": "lower_back",
+              "rect": {
+                "hIn": 3,
+                "wIn": 11,
+                "xIn": 4.994266063094951,
+                "yIn": 22.857583084042236
+              },
+              "group": "small",
+              "label": "Lower back",
+              "panel": "back",
+              "camera": "back",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "full_back"
+              ]
+            },
+            {
+              "id": "outside_neck",
+              "rect": {
+                "hIn": 1.3,
+                "wIn": 3,
+                "xIn": 8.994266063094951,
+                "yIn": 1.1
+              },
+              "group": "label",
+              "label": "Outside neck",
+              "panel": "back",
+              "camera": "back",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.1
+            },
+            {
+              "id": "inside_neck",
+              "rect": {
+                "hIn": 2,
+                "wIn": 3,
+                "xIn": 8.994266063094951,
+                "yIn": 1.1
+              },
+              "group": "label",
+              "label": "Inside neck label",
+              "panel": "back_inside",
+              "camera": "neck",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.1
+            },
+            {
+              "id": "left_sleeve",
+              "rect": {
+                "hIn": 14,
+                "wIn": 3,
+                "xIn": 8.673733649385188,
+                "yIn": 1.6
+              },
+              "group": "sleeve",
+              "label": "Left sleeve",
+              "panel": "left_sleeve",
+              "camera": "left_sleeve",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25
+            },
+            {
+              "id": "right_sleeve",
+              "rect": {
+                "hIn": 14,
+                "wIn": 3,
+                "xIn": 8.673733649385188,
+                "yIn": 1.6
+              },
+              "group": "sleeve",
+              "label": "Right sleeve",
+              "panel": "right_sleeve",
+              "camera": "right_sleeve",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25
+            },
+            {
+              "id": "left_cuff",
+              "rect": {
+                "hIn": 1.4,
+                "wIn": 2.6,
+                "xIn": 4.907787083493432,
+                "yIn": 0.55
+              },
+              "group": "label",
+              "label": "Left cuff",
+              "panel": "left_cuff",
+              "camera": "left_sleeve",
+              "bleedIn": 0,
+              "methods": [
+                "embroidery",
+                "dtf",
+                "vinyl"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.1
+            },
+            {
+              "id": "right_cuff",
+              "rect": {
+                "hIn": 1.4,
+                "wIn": 2.6,
+                "xIn": 4.907787083493432,
+                "yIn": 0.55
+              },
+              "group": "label",
+              "label": "Right cuff",
+              "panel": "right_cuff",
+              "camera": "right_sleeve",
+              "bleedIn": 0,
+              "methods": [
+                "embroidery",
+                "dtf",
+                "vinyl"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.1
+            },
+            {
+              "id": "collar",
+              "rect": {
+                "hIn": 1.1,
+                "wIn": 4,
+                "xIn": 8.551414072013761,
+                "yIn": 0.35
+              },
+              "group": "label",
+              "label": "Collar",
+              "panel": "collar",
+              "camera": "neck",
+              "bleedIn": 0,
+              "methods": [
+                "embroidery",
+                "dtf"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.1
+            }
+          ]
+        }
+      ],
+      "category": "Shirts",
+      "materials": [
+        "poplin"
+      ],
+      "published": true,
+      "description": "Button-front shirt with collar and cuffs; chest and cuff embroidery.",
+      "printSizing": "constant",
+      "printMethods": [
+        "embroidery",
+        "dtf"
+      ],
+      "defaultMethod": "embroidery",
+      "referenceSize": "M",
+      "multiZoneColors": true
+    },
+    {
+      "id": "workwear",
+      "slug": "workwear-shirt",
+      "sizes": [
+        {
+          "id": "XS",
+          "sku": "WW-XS",
+          "label": "XS",
+          "scale": 0.88,
+          "chestIn": 17,
+          "lengthIn": 27,
+          "sleeveIn": 7.5,
+          "shoulderIn": 16
+        },
+        {
+          "id": "S",
+          "sku": "WW-S",
+          "label": "S",
+          "scale": 0.94,
+          "chestIn": 18.5,
+          "lengthIn": 28,
+          "sleeveIn": 8,
+          "shoulderIn": 17
+        },
+        {
+          "id": "M",
+          "sku": "WW-M",
+          "label": "M",
+          "scale": 1,
+          "chestIn": 20,
+          "lengthIn": 29,
+          "sleeveIn": 8.25,
+          "shoulderIn": 18
+        },
+        {
+          "id": "L",
+          "sku": "WW-L",
+          "label": "L",
+          "scale": 1.06,
+          "chestIn": 22,
+          "lengthIn": 30,
+          "sleeveIn": 8.5,
+          "shoulderIn": 19.5
+        },
+        {
+          "id": "XL",
+          "sku": "WW-XL",
+          "label": "XL",
+          "scale": 1.12,
+          "chestIn": 24,
+          "lengthIn": 31,
+          "sleeveIn": 8.75,
+          "shoulderIn": 21
+        },
+        {
+          "id": "2XL",
+          "sku": "WW-2XL",
+          "label": "2XL",
+          "scale": 1.18,
+          "chestIn": 26,
+          "lengthIn": 32,
+          "sleeveIn": 9,
+          "shoulderIn": 22.5
+        },
+        {
+          "id": "3XL",
+          "sku": "WW-3XL",
+          "label": "3XL",
+          "scale": 1.24,
+          "chestIn": 28,
+          "lengthIn": 33,
+          "sleeveIn": 9.25,
+          "shoulderIn": 24
+        }
+      ],
+      "title": "Workwear Shirt",
+      "colors": [
+        {
+          "id": "black",
+          "hex": "#1c1c1e",
+          "name": "Black",
+          "mfrId": "36"
+        },
+        {
+          "id": "navy",
+          "hex": "#1f2a44",
+          "name": "Navy",
+          "mfrId": "32"
+        },
+        {
+          "id": "forest",
+          "hex": "#26452f",
+          "name": "Forest Green",
+          "mfrId": "33"
+        },
+        {
+          "id": "heather",
+          "hex": "#a7a8aa",
+          "name": "Heather Grey",
+          "mfrId": "RS"
+        },
+        {
+          "id": "sand",
+          "hex": "#d8c7a6",
+          "name": "Sand",
+          "mfrId": "6E"
+        }
+      ],
+      "models": [
+        {
+          "id": "workwear",
+          "label": "Work Shirt",
+          "panels": [
+            {
+              "id": "front",
+              "label": "Front",
+              "widthIn": 23.612098641963648,
+              "heightIn": 30.661987644543583,
+              "colorZone": "body"
+            },
+            {
+              "id": "back",
+              "label": "Back",
+              "widthIn": 23.612098641963648,
+              "heightIn": 30.661987644543583,
+              "colorZone": "body"
+            },
+            {
+              "id": "back_inside",
+              "label": "Inside back",
+              "widthIn": 23.612098641963648,
+              "heightIn": 30.661987644543583,
+              "colorZone": "body"
+            },
+            {
+              "id": "left_sleeve",
+              "label": "Left sleeve",
+              "widthIn": 21.67353355785063,
+              "heightIn": 9,
+              "colorZone": "body"
+            },
+            {
+              "id": "right_sleeve",
+              "label": "Right sleeve",
+              "widthIn": 21.67353355785063,
+              "heightIn": 9,
+              "colorZone": "body"
+            },
+            {
+              "id": "collar",
+              "label": "Collar",
+              "widthIn": 21.102828144027523,
+              "heightIn": 1.8,
+              "colorZone": "body"
+            }
+          ],
+          "source": {
+            "type": "procedural",
+            "garment": {
+              "drop": 1.05,
+              "kind": "dress",
+              "collar": "dress",
+              "chestIn": 22.5,
+              "placket": true,
+              "lengthIn": 30,
+              "sleeveLengthIn": 9
+            }
+          },
+          "license": {
+            "author": "Generated in-code (procedural geometry)",
+            "source": "internal",
+            "license": "Proprietary – owned by platform operator",
+            "modifications": "n/a – authored in-house",
+            "redistribution": "embedded-only",
+            "attributionRequired": false
+          },
+          "colorZones": [
+            {
+              "id": "body",
+              "label": "Body"
+            }
+          ],
+          "printAreas": [
+            {
+              "id": "left_chest",
+              "rect": {
+                "hIn": 4,
+                "wIn": 4,
+                "xIn": 14.306049320981824,
+                "yIn": 4.2
+              },
+              "group": "small",
+              "label": "Left chest",
+              "panel": "front",
+              "camera": "front",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": []
+            },
+            {
+              "id": "right_chest",
+              "rect": {
+                "hIn": 4,
+                "wIn": 4,
+                "xIn": 5.306049320981824,
+                "yIn": 4.2
+              },
+              "group": "small",
+              "label": "Right chest",
+              "panel": "front",
+              "camera": "front",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": []
+            },
+            {
+              "id": "full_back",
+              "rect": {
+                "hIn": 14,
+                "wIn": 12,
+                "xIn": 5.806049320981824,
+                "yIn": 5
+              },
+              "group": "large",
+              "label": "Full back",
+              "panel": "back",
+              "camera": "back",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "upper_back",
+                "lower_back"
+              ]
+            },
+            {
+              "id": "upper_back",
+              "rect": {
+                "hIn": 3,
+                "wIn": 11,
+                "xIn": 6.306049320981824,
+                "yIn": 3.2
+              },
+              "group": "small",
+              "label": "Upper back",
+              "panel": "back",
+              "camera": "back",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "full_back"
+              ]
+            },
+            {
+              "id": "lower_back",
+              "rect": {
+                "hIn": 3,
+                "wIn": 11,
+                "xIn": 6.306049320981824,
+                "yIn": 23.161987644543583
+              },
+              "group": "small",
+              "label": "Lower back",
+              "panel": "back",
+              "camera": "back",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "full_back"
+              ]
+            },
+            {
+              "id": "outside_neck",
+              "rect": {
+                "hIn": 1.3,
+                "wIn": 3,
+                "xIn": 10.306049320981824,
+                "yIn": 1.1
+              },
+              "group": "label",
+              "label": "Outside neck",
+              "panel": "back",
+              "camera": "back",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.1
+            },
+            {
+              "id": "inside_neck",
+              "rect": {
+                "hIn": 2,
+                "wIn": 3,
+                "xIn": 10.306049320981824,
+                "yIn": 1.1
+              },
+              "group": "label",
+              "label": "Inside neck label",
+              "panel": "back_inside",
+              "camera": "neck",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.1
+            },
+            {
+              "id": "left_sleeve",
+              "rect": {
+                "hIn": 3.5,
+                "wIn": 3.5,
+                "xIn": 9.086766778925314,
+                "yIn": 1.6
+              },
+              "group": "sleeve",
+              "label": "Left sleeve",
+              "panel": "left_sleeve",
+              "camera": "left_sleeve",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25
+            },
+            {
+              "id": "right_sleeve",
+              "rect": {
+                "hIn": 3.5,
+                "wIn": 3.5,
+                "xIn": 9.086766778925314,
+                "yIn": 1.6
+              },
+              "group": "sleeve",
+              "label": "Right sleeve",
+              "panel": "right_sleeve",
+              "camera": "right_sleeve",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25
+            },
+            {
+              "id": "collar",
+              "rect": {
+                "hIn": 1.1,
+                "wIn": 4,
+                "xIn": 8.551414072013761,
+                "yIn": 0.35
+              },
+              "group": "label",
+              "label": "Collar",
+              "panel": "collar",
+              "camera": "neck",
+              "bleedIn": 0,
+              "methods": [
+                "embroidery",
+                "dtf"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.1
+            }
+          ]
+        }
+      ],
+      "category": "Workwear",
+      "materials": [
+        "twill"
+      ],
+      "published": true,
+      "description": "Durable twill work shirt for uniforms.",
+      "printSizing": "constant",
+      "printMethods": [
+        "embroidery",
+        "dtf",
+        "screen"
+      ],
+      "defaultMethod": "embroidery",
+      "referenceSize": "M",
+      "multiZoneColors": false
+    },
+    {
+      "id": "jersey",
+      "slug": "sports-jersey",
+      "sizes": [
+        {
+          "id": "XS",
+          "sku": "JS-XS",
+          "label": "XS",
+          "scale": 0.88,
+          "chestIn": 17,
+          "lengthIn": 27,
+          "sleeveIn": 7.5,
+          "shoulderIn": 16
+        },
+        {
+          "id": "S",
+          "sku": "JS-S",
+          "label": "S",
+          "scale": 0.94,
+          "chestIn": 18.5,
+          "lengthIn": 28,
+          "sleeveIn": 8,
+          "shoulderIn": 17
+        },
+        {
+          "id": "M",
+          "sku": "JS-M",
+          "label": "M",
+          "scale": 1,
+          "chestIn": 20,
+          "lengthIn": 29,
+          "sleeveIn": 8.25,
+          "shoulderIn": 18
+        },
+        {
+          "id": "L",
+          "sku": "JS-L",
+          "label": "L",
+          "scale": 1.06,
+          "chestIn": 22,
+          "lengthIn": 30,
+          "sleeveIn": 8.5,
+          "shoulderIn": 19.5
+        },
+        {
+          "id": "XL",
+          "sku": "JS-XL",
+          "label": "XL",
+          "scale": 1.12,
+          "chestIn": 24,
+          "lengthIn": 31,
+          "sleeveIn": 8.75,
+          "shoulderIn": 21
+        },
+        {
+          "id": "2XL",
+          "sku": "JS-2XL",
+          "label": "2XL",
+          "scale": 1.18,
+          "chestIn": 26,
+          "lengthIn": 32,
+          "sleeveIn": 9,
+          "shoulderIn": 22.5
+        },
+        {
+          "id": "3XL",
+          "sku": "JS-3XL",
+          "label": "3XL",
+          "scale": 1.24,
+          "chestIn": 28,
+          "lengthIn": 33,
+          "sleeveIn": 9.25,
+          "shoulderIn": 24
+        }
+      ],
+      "title": "Sublimated Sports Jersey",
+      "colors": [
+        {
+          "id": "white",
+          "hex": "#f4f4f1",
+          "name": "White",
+          "mfrId": "00"
+        }
+      ],
+      "minQty": 1,
+      "models": [
+        {
+          "id": "jersey",
+          "label": "Sports Jersey",
+          "panels": [
+            {
+              "id": "front",
+              "label": "Front",
+              "widthIn": 20.988532126189902,
+              "heightIn": 29.35775980947969,
+              "colorZone": "body"
+            },
+            {
+              "id": "back",
+              "label": "Back",
+              "widthIn": 20.988532126189902,
+              "heightIn": 29.35775980947969,
+              "colorZone": "body"
+            },
+            {
+              "id": "back_inside",
+              "label": "Inside back",
+              "widthIn": 20.988532126189902,
+              "heightIn": 29.35775980947969,
+              "colorZone": "body"
+            },
+            {
+              "id": "left_sleeve",
+              "label": "Left sleeve",
+              "widthIn": 20.347467298770376,
+              "heightIn": 8.5,
+              "colorZone": "body"
+            },
+            {
+              "id": "right_sleeve",
+              "label": "Right sleeve",
+              "widthIn": 20.347467298770376,
+              "heightIn": 8.5,
+              "colorZone": "body"
+            }
+          ],
+          "source": {
+            "type": "procedural",
+            "garment": {
+              "kind": "tee",
+              "collar": "v",
+              "chestIn": 21,
+              "lengthIn": 29,
+              "sleeveLengthIn": 8.5
+            }
+          },
+          "license": {
+            "author": "Generated in-code (procedural geometry)",
+            "source": "internal",
+            "license": "Proprietary – owned by platform operator",
+            "modifications": "n/a – authored in-house",
+            "redistribution": "embedded-only",
+            "attributionRequired": false
+          },
+          "colorZones": [
+            {
+              "id": "body",
+              "label": "Body"
+            }
+          ],
+          "printAreas": [
+            {
+              "id": "front_allover",
+              "rect": {
+                "hIn": 29.35775980947969,
+                "wIn": 20.988532126189902,
+                "xIn": 0,
+                "yIn": 0
+              },
+              "group": "allover",
+              "label": "Front (all-over)",
+              "panel": "front",
+              "camera": "front",
+              "bleedIn": 0.5,
+              "methods": [
+                "sublimation"
+              ],
+              "exclusions": [
+                {
+                  "id": "seamL",
+                  "hIn": 29.35775980947969,
+                  "wIn": 0.6,
+                  "xIn": 0,
+                  "yIn": 0,
+                  "kind": "seam",
+                  "label": "Side seam"
+                },
+                {
+                  "id": "seamR",
+                  "hIn": 29.35775980947969,
+                  "wIn": 0.6,
+                  "xIn": 20.3885321261899,
+                  "yIn": 0,
+                  "kind": "seam",
+                  "label": "Side seam"
+                },
+                {
+                  "id": "neck",
+                  "hIn": 1.6,
+                  "wIn": 8.4,
+                  "xIn": 6.294266063094951,
+                  "yIn": 0,
+                  "kind": "collar",
+                  "label": "Collar"
+                },
+                {
+                  "id": "hem",
+                  "hIn": 0.8,
+                  "wIn": 20.988532126189902,
+                  "xIn": 0,
+                  "yIn": 28.557759809479688,
+                  "kind": "stitching",
+                  "label": "Hem stitching"
+                }
+              ],
+              "safeInsetIn": 0.75
+            },
+            {
+              "id": "back_allover",
+              "rect": {
+                "hIn": 29.35775980947969,
+                "wIn": 20.988532126189902,
+                "xIn": 0,
+                "yIn": 0
+              },
+              "group": "allover",
+              "label": "Back (all-over)",
+              "panel": "back",
+              "camera": "back",
+              "bleedIn": 0.5,
+              "methods": [
+                "sublimation"
+              ],
+              "exclusions": [
+                {
+                  "id": "seamL",
+                  "hIn": 29.35775980947969,
+                  "wIn": 0.6,
+                  "xIn": 0,
+                  "yIn": 0,
+                  "kind": "seam",
+                  "label": "Side seam"
+                },
+                {
+                  "id": "seamR",
+                  "hIn": 29.35775980947969,
+                  "wIn": 0.6,
+                  "xIn": 20.3885321261899,
+                  "yIn": 0,
+                  "kind": "seam",
+                  "label": "Side seam"
+                },
+                {
+                  "id": "neck",
+                  "hIn": 1.6,
+                  "wIn": 8.4,
+                  "xIn": 6.294266063094951,
+                  "yIn": 0,
+                  "kind": "collar",
+                  "label": "Collar"
+                },
+                {
+                  "id": "hem",
+                  "hIn": 0.8,
+                  "wIn": 20.988532126189902,
+                  "xIn": 0,
+                  "yIn": 28.557759809479688,
+                  "kind": "stitching",
+                  "label": "Hem stitching"
+                }
+              ],
+              "safeInsetIn": 0.75
+            },
+            {
+              "id": "left_sleeve_allover",
+              "rect": {
+                "hIn": 8.5,
+                "wIn": 20.347467298770376,
+                "xIn": 0,
+                "yIn": 0
+              },
+              "group": "allover",
+              "label": "Left sleeve (all-over)",
+              "panel": "left_sleeve",
+              "camera": "left_sleeve",
+              "bleedIn": 0.5,
+              "methods": [
+                "sublimation"
+              ],
+              "exclusions": [
+                {
+                  "id": "armpit",
+                  "hIn": 8.5,
+                  "wIn": 1,
+                  "xIn": 0,
+                  "yIn": 0,
+                  "kind": "armpit",
+                  "label": "Underarm seam"
+                },
+                {
+                  "id": "armpit2",
+                  "hIn": 8.5,
+                  "wIn": 1,
+                  "xIn": 19.347467298770376,
+                  "yIn": 0,
+                  "kind": "armpit",
+                  "label": "Underarm seam"
+                }
+              ],
+              "safeInsetIn": 0.5
+            },
+            {
+              "id": "right_sleeve_allover",
+              "rect": {
+                "hIn": 8.5,
+                "wIn": 20.347467298770376,
+                "xIn": 0,
+                "yIn": 0
+              },
+              "group": "allover",
+              "label": "Right sleeve (all-over)",
+              "panel": "right_sleeve",
+              "camera": "right_sleeve",
+              "bleedIn": 0.5,
+              "methods": [
+                "sublimation"
+              ],
+              "exclusions": [
+                {
+                  "id": "armpit",
+                  "hIn": 8.5,
+                  "wIn": 1,
+                  "xIn": 0,
+                  "yIn": 0,
+                  "kind": "armpit",
+                  "label": "Underarm seam"
+                },
+                {
+                  "id": "armpit2",
+                  "hIn": 8.5,
+                  "wIn": 1,
+                  "xIn": 19.347467298770376,
+                  "yIn": 0,
+                  "kind": "armpit",
+                  "label": "Underarm seam"
+                }
+              ],
+              "safeInsetIn": 0.5
+            }
+          ]
+        }
+      ],
+      "category": "Sportswear",
+      "materials": [
+        "performance"
+      ],
+      "published": true,
+      "description": "Edge-to-edge sublimated performance jersey for teams.",
+      "printSizing": "scale",
+      "printMethods": [
+        "sublimation"
+      ],
+      "defaultMethod": "sublimation",
+      "referenceSize": "M",
+      "multiZoneColors": false
+    },
+    {
+      "id": "sports-tee",
+      "slug": "sports-shirt",
+      "sizes": [
+        {
+          "id": "XS",
+          "sku": "ST-XS",
+          "label": "XS",
+          "scale": 0.88,
+          "chestIn": 17,
+          "lengthIn": 27,
+          "sleeveIn": 7.5,
+          "shoulderIn": 16
+        },
+        {
+          "id": "S",
+          "sku": "ST-S",
+          "label": "S",
+          "scale": 0.94,
+          "chestIn": 18.5,
+          "lengthIn": 28,
+          "sleeveIn": 8,
+          "shoulderIn": 17
+        },
+        {
+          "id": "M",
+          "sku": "ST-M",
+          "label": "M",
+          "scale": 1,
+          "chestIn": 20,
+          "lengthIn": 29,
+          "sleeveIn": 8.25,
+          "shoulderIn": 18
+        },
+        {
+          "id": "L",
+          "sku": "ST-L",
+          "label": "L",
+          "scale": 1.06,
+          "chestIn": 22,
+          "lengthIn": 30,
+          "sleeveIn": 8.5,
+          "shoulderIn": 19.5
+        },
+        {
+          "id": "XL",
+          "sku": "ST-XL",
+          "label": "XL",
+          "scale": 1.12,
+          "chestIn": 24,
+          "lengthIn": 31,
+          "sleeveIn": 8.75,
+          "shoulderIn": 21
+        },
+        {
+          "id": "2XL",
+          "sku": "ST-2XL",
+          "label": "2XL",
+          "scale": 1.18,
+          "chestIn": 26,
+          "lengthIn": 32,
+          "sleeveIn": 9,
+          "shoulderIn": 22.5
+        },
+        {
+          "id": "3XL",
+          "sku": "ST-3XL",
+          "label": "3XL",
+          "scale": 1.24,
+          "chestIn": 28,
+          "lengthIn": 33,
+          "sleeveIn": 9.25,
+          "shoulderIn": 24
+        }
+      ],
+      "title": "Performance Sports Shirt",
+      "colors": [
+        {
+          "id": "white",
+          "hex": "#f4f4f1",
+          "name": "White",
+          "mfrId": "00"
+        },
+        {
+          "id": "black",
+          "hex": "#1c1c1e",
+          "name": "Black",
+          "mfrId": "36"
+        },
+        {
+          "id": "navy",
+          "hex": "#1f2a44",
+          "name": "Navy",
+          "mfrId": "32"
+        },
+        {
+          "id": "royal",
+          "hex": "#2250a8",
+          "name": "Royal Blue",
+          "mfrId": "51"
+        },
+        {
+          "id": "red",
+          "hex": "#b3202c",
+          "name": "Red",
+          "mfrId": "40"
+        },
+        {
+          "id": "forest",
+          "hex": "#26452f",
+          "name": "Forest Green",
+          "mfrId": "33"
+        },
+        {
+          "id": "heather",
+          "hex": "#a7a8aa",
+          "name": "Heather Grey",
+          "mfrId": "RS"
+        },
+        {
+          "id": "sand",
+          "hex": "#d8c7a6",
+          "name": "Sand",
+          "mfrId": "6E"
+        },
+        {
+          "id": "maroon",
+          "hex": "#5a1f2b",
+          "name": "Maroon",
+          "mfrId": "38"
+        },
+        {
+          "id": "gold",
+          "hex": "#e2a927",
+          "name": "Gold",
+          "mfrId": "24"
+        }
+      ],
+      "models": [
+        {
+          "id": "sports-tee",
+          "label": "Sports Shirt",
+          "panels": [
+            {
+              "id": "front",
+              "label": "Front",
+              "widthIn": 20.488805170804426,
+              "heightIn": 28.808446836165206,
+              "colorZone": "body"
+            },
+            {
+              "id": "back",
+              "label": "Back",
+              "widthIn": 20.488805170804426,
+              "heightIn": 28.808446836165206,
+              "colorZone": "body"
+            },
+            {
+              "id": "back_inside",
+              "label": "Inside back",
+              "widthIn": 20.488805170804426,
+              "heightIn": 28.808446836165206,
+              "colorZone": "body"
+            },
+            {
+              "id": "left_sleeve",
+              "label": "Left sleeve",
+              "widthIn": 20.094883249421752,
+              "heightIn": 8,
+              "colorZone": "body"
+            },
+            {
+              "id": "right_sleeve",
+              "label": "Right sleeve",
+              "widthIn": 20.094883249421752,
+              "heightIn": 8,
+              "colorZone": "body"
+            }
+          ],
+          "source": {
+            "type": "procedural",
+            "garment": {
+              "kind": "tee",
+              "collar": "v",
+              "chestIn": 20.5,
+              "lengthIn": 28.5,
+              "sleeveLengthIn": 8
+            }
+          },
+          "license": {
+            "author": "Generated in-code (procedural geometry)",
+            "source": "internal",
+            "license": "Proprietary – owned by platform operator",
+            "modifications": "n/a – authored in-house",
+            "redistribution": "embedded-only",
+            "attributionRequired": false
+          },
+          "colorZones": [
+            {
+              "id": "body",
+              "label": "Body"
+            }
+          ],
+          "printAreas": [
+            {
+              "id": "full_front",
+              "rect": {
+                "hIn": 14,
+                "wIn": 12,
+                "xIn": 4.244402585402213,
+                "yIn": 4
+              },
+              "group": "large",
+              "label": "Full front",
+              "panel": "front",
+              "camera": "front",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "left_chest",
+                "right_chest"
+              ]
+            },
+            {
+              "id": "left_chest",
+              "rect": {
+                "hIn": 4,
+                "wIn": 4,
+                "xIn": 12.744402585402213,
+                "yIn": 4.2
+              },
+              "group": "small",
+              "label": "Left chest",
+              "panel": "front",
+              "camera": "front",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "full_front"
+              ]
+            },
+            {
+              "id": "right_chest",
+              "rect": {
+                "hIn": 4,
+                "wIn": 4,
+                "xIn": 3.744402585402213,
+                "yIn": 4.2
+              },
+              "group": "small",
+              "label": "Right chest",
+              "panel": "front",
+              "camera": "front",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "full_front"
+              ]
+            },
+            {
+              "id": "full_back",
+              "rect": {
+                "hIn": 14,
+                "wIn": 12,
+                "xIn": 4.244402585402213,
+                "yIn": 5
+              },
+              "group": "large",
+              "label": "Full back",
+              "panel": "back",
+              "camera": "back",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "upper_back",
+                "lower_back"
+              ]
+            },
+            {
+              "id": "upper_back",
+              "rect": {
+                "hIn": 3,
+                "wIn": 11,
+                "xIn": 4.744402585402213,
+                "yIn": 3.2
+              },
+              "group": "small",
+              "label": "Upper back",
+              "panel": "back",
+              "camera": "back",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "full_back"
+              ]
+            },
+            {
+              "id": "lower_back",
+              "rect": {
+                "hIn": 3,
+                "wIn": 11,
+                "xIn": 4.744402585402213,
+                "yIn": 21.308446836165206
+              },
+              "group": "small",
+              "label": "Lower back",
+              "panel": "back",
+              "camera": "back",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "full_back"
+              ]
+            },
+            {
+              "id": "outside_neck",
+              "rect": {
+                "hIn": 1.3,
+                "wIn": 3,
+                "xIn": 8.744402585402213,
+                "yIn": 1.1
+              },
+              "group": "label",
+              "label": "Outside neck",
+              "panel": "back",
+              "camera": "back",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.1
+            },
+            {
+              "id": "inside_neck",
+              "rect": {
+                "hIn": 2,
+                "wIn": 3,
+                "xIn": 8.744402585402213,
+                "yIn": 1.1
+              },
+              "group": "label",
+              "label": "Inside neck label",
+              "panel": "back_inside",
+              "camera": "neck",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.1
+            },
+            {
+              "id": "left_sleeve",
+              "rect": {
+                "hIn": 3.5,
+                "wIn": 3.5,
+                "xIn": 8.297441624710876,
+                "yIn": 1.6
+              },
+              "group": "sleeve",
+              "label": "Left sleeve",
+              "panel": "left_sleeve",
+              "camera": "left_sleeve",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25
+            },
+            {
+              "id": "right_sleeve",
+              "rect": {
+                "hIn": 3.5,
+                "wIn": 3.5,
+                "xIn": 8.297441624710876,
+                "yIn": 1.6
+              },
+              "group": "sleeve",
+              "label": "Right sleeve",
+              "panel": "right_sleeve",
+              "camera": "right_sleeve",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25
+            }
+          ]
+        }
+      ],
+      "category": "Sportswear",
+      "materials": [
+        "performance",
+        "polyester"
+      ],
+      "published": true,
+      "description": "Moisture-wicking tee for names and numbers.",
+      "printSizing": "constant",
+      "printMethods": [
+        "dtf",
+        "vinyl",
+        "screen"
+      ],
+      "defaultMethod": "vinyl",
+      "referenceSize": "M",
+      "multiZoneColors": false
+    },
+    {
+      "id": "kids-tee",
+      "slug": "kids-t-shirt",
+      "sizes": [
+        {
+          "id": "3-4Y",
+          "sku": "K-34",
+          "label": "3–4 yrs",
+          "scale": 0.8,
+          "chestIn": 13,
+          "lengthIn": 17,
+          "sleeveIn": 4.5
+        },
+        {
+          "id": "5-6Y",
+          "sku": "K-56",
+          "label": "5–6 yrs",
+          "scale": 0.9,
+          "chestIn": 14,
+          "lengthIn": 19,
+          "sleeveIn": 5
+        },
+        {
+          "id": "7-8Y",
+          "sku": "K-78",
+          "label": "7–8 yrs",
+          "scale": 1,
+          "chestIn": 15,
+          "lengthIn": 20.5,
+          "sleeveIn": 5.5
+        },
+        {
+          "id": "9-11Y",
+          "sku": "K-911",
+          "label": "9–11 yrs",
+          "scale": 1.08,
+          "chestIn": 16.5,
+          "lengthIn": 22.5,
+          "sleeveIn": 6
+        },
+        {
+          "id": "12-13Y",
+          "sku": "K-1213",
+          "label": "12–13 yrs",
+          "scale": 1.16,
+          "chestIn": 17.5,
+          "lengthIn": 24,
+          "sleeveIn": 6.5
+        }
+      ],
+      "title": "Kids T-Shirt",
+      "colors": [
+        {
+          "id": "white",
+          "hex": "#f4f4f1",
+          "name": "White",
+          "mfrId": "00"
+        },
+        {
+          "id": "black",
+          "hex": "#1c1c1e",
+          "name": "Black",
+          "mfrId": "36"
+        },
+        {
+          "id": "navy",
+          "hex": "#1f2a44",
+          "name": "Navy",
+          "mfrId": "32"
+        },
+        {
+          "id": "royal",
+          "hex": "#2250a8",
+          "name": "Royal Blue",
+          "mfrId": "51"
+        },
+        {
+          "id": "red",
+          "hex": "#b3202c",
+          "name": "Red",
+          "mfrId": "40"
+        },
+        {
+          "id": "forest",
+          "hex": "#26452f",
+          "name": "Forest Green",
+          "mfrId": "33"
+        },
+        {
+          "id": "heather",
+          "hex": "#a7a8aa",
+          "name": "Heather Grey",
+          "mfrId": "RS"
+        },
+        {
+          "id": "sand",
+          "hex": "#d8c7a6",
+          "name": "Sand",
+          "mfrId": "6E"
+        },
+        {
+          "id": "maroon",
+          "hex": "#5a1f2b",
+          "name": "Maroon",
+          "mfrId": "38"
+        },
+        {
+          "id": "gold",
+          "hex": "#e2a927",
+          "name": "Gold",
+          "mfrId": "24"
+        }
+      ],
+      "models": [
+        {
+          "id": "kids-tee",
+          "label": "Kids Tee",
+          "panels": [
+            {
+              "id": "front",
+              "label": "Front",
+              "widthIn": 14.99180866156422,
+              "heightIn": 20.522464929001906,
+              "colorZone": "body"
+            },
+            {
+              "id": "back",
+              "label": "Back",
+              "widthIn": 14.99180866156422,
+              "heightIn": 20.522464929001906,
+              "colorZone": "body"
+            },
+            {
+              "id": "back_inside",
+              "label": "Inside back",
+              "widthIn": 14.99180866156422,
+              "heightIn": 20.522464929001906,
+              "colorZone": "body"
+            },
+            {
+              "id": "left_sleeve",
+              "label": "Left sleeve",
+              "widthIn": 17.316458706586943,
+              "heightIn": 5.5,
+              "colorZone": "body"
+            },
+            {
+              "id": "right_sleeve",
+              "label": "Right sleeve",
+              "widthIn": 17.316458706586943,
+              "heightIn": 5.5,
+              "colorZone": "body"
+            }
+          ],
+          "source": {
+            "type": "procedural",
+            "garment": {
+              "kind": "tee",
+              "collar": "crew",
+              "chestIn": 15,
+              "lengthIn": 20.5,
+              "sleeveLengthIn": 5.5
+            }
+          },
+          "license": {
+            "author": "Generated in-code (procedural geometry)",
+            "source": "internal",
+            "license": "Proprietary – owned by platform operator",
+            "modifications": "n/a – authored in-house",
+            "redistribution": "embedded-only",
+            "attributionRequired": false
+          },
+          "colorZones": [
+            {
+              "id": "body",
+              "label": "Body"
+            }
+          ],
+          "printAreas": [
+            {
+              "id": "full_front",
+              "rect": {
+                "hIn": 10.522464929001906,
+                "wIn": 8.99180866156422,
+                "xIn": 3,
+                "yIn": 4
+              },
+              "group": "large",
+              "label": "Full front",
+              "panel": "front",
+              "camera": "front",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "left_chest",
+                "right_chest"
+              ]
+            },
+            {
+              "id": "left_chest",
+              "rect": {
+                "hIn": 4,
+                "wIn": 4,
+                "xIn": 9.99180866156422,
+                "yIn": 4.2
+              },
+              "group": "small",
+              "label": "Left chest",
+              "panel": "front",
+              "camera": "front",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "full_front"
+              ]
+            },
+            {
+              "id": "right_chest",
+              "rect": {
+                "hIn": 4,
+                "wIn": 4,
+                "xIn": 1,
+                "yIn": 4.2
+              },
+              "group": "small",
+              "label": "Right chest",
+              "panel": "front",
+              "camera": "front",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "full_front"
+              ]
+            },
+            {
+              "id": "full_back",
+              "rect": {
+                "hIn": 9.522464929001906,
+                "wIn": 8.99180866156422,
+                "xIn": 3,
+                "yIn": 5
+              },
+              "group": "large",
+              "label": "Full back",
+              "panel": "back",
+              "camera": "back",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "upper_back",
+                "lower_back"
+              ]
+            },
+            {
+              "id": "upper_back",
+              "rect": {
+                "hIn": 3,
+                "wIn": 8.99180866156422,
+                "xIn": 3,
+                "yIn": 3.2
+              },
+              "group": "small",
+              "label": "Upper back",
+              "panel": "back",
+              "camera": "back",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "full_back"
+              ]
+            },
+            {
+              "id": "lower_back",
+              "rect": {
+                "hIn": 3,
+                "wIn": 8.99180866156422,
+                "xIn": 3,
+                "yIn": 13.022464929001906
+              },
+              "group": "small",
+              "label": "Lower back",
+              "panel": "back",
+              "camera": "back",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25,
+              "conflictsWith": [
+                "full_back"
+              ]
+            },
+            {
+              "id": "outside_neck",
+              "rect": {
+                "hIn": 1.3,
+                "wIn": 3,
+                "xIn": 5.99590433078211,
+                "yIn": 1.1
+              },
+              "group": "label",
+              "label": "Outside neck",
+              "panel": "back",
+              "camera": "back",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.1
+            },
+            {
+              "id": "inside_neck",
+              "rect": {
+                "hIn": 2,
+                "wIn": 3,
+                "xIn": 5.99590433078211,
+                "yIn": 1.1
+              },
+              "group": "label",
+              "label": "Inside neck label",
+              "panel": "back_inside",
+              "camera": "neck",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.1
+            },
+            {
+              "id": "left_sleeve",
+              "rect": {
+                "hIn": 3,
+                "wIn": 3.5,
+                "xIn": 6.908229353293471,
+                "yIn": 1.6
+              },
+              "group": "sleeve",
+              "label": "Left sleeve",
+              "panel": "left_sleeve",
+              "camera": "left_sleeve",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25
+            },
+            {
+              "id": "right_sleeve",
+              "rect": {
+                "hIn": 3,
+                "wIn": 3.5,
+                "xIn": 6.908229353293471,
+                "yIn": 1.6
+              },
+              "group": "sleeve",
+              "label": "Right sleeve",
+              "panel": "right_sleeve",
+              "camera": "right_sleeve",
+              "bleedIn": 0,
+              "methods": [
+                "dtg",
+                "dtf",
+                "screen",
+                "vinyl",
+                "embroidery"
+              ],
+              "exclusions": [],
+              "safeInsetIn": 0.25
+            }
+          ]
+        }
+      ],
+      "category": "Kids",
+      "materials": [
+        "cotton"
+      ],
+      "published": true,
+      "description": "Soft cotton tee for kids.",
+      "printSizing": "scale",
+      "printMethods": [
+        "dtg",
+        "dtf",
+        "vinyl"
+      ],
+      "defaultMethod": "dtg",
+      "referenceSize": "7-8Y",
+      "multiZoneColors": false
+    }
+  ],
+  "materials": [
+    {
+      "id": "cotton",
+      "label": "100% Ringspun Cotton",
+      "sheen": 0.55,
+      "weave": "jersey",
+      "roughness": 0.93,
+      "description": "Soft, breathable jersey",
+      "normalScale": 0.35
+    },
+    {
+      "id": "blend",
+      "label": "Cotton / Poly Blend",
+      "sheen": 0.45,
+      "weave": "jersey",
+      "roughness": 0.88,
+      "description": "Smoother, less shrinkage",
+      "normalScale": 0.28
+    },
+    {
+      "id": "polyester",
+      "label": "100% Polyester",
+      "sheen": 0.35,
+      "weave": "jersey",
+      "roughness": 0.78,
+      "description": "Bright colours, quick dry",
+      "normalScale": 0.22
+    },
+    {
+      "id": "performance",
+      "label": "Performance Mesh",
+      "sheen": 0.3,
+      "weave": "mesh",
+      "roughness": 0.72,
+      "description": "Breathable technical mesh",
+      "normalScale": 0.5
+    },
+    {
+      "id": "fleece",
+      "label": "Brushed Fleece",
+      "sheen": 0.9,
+      "weave": "fleece",
+      "roughness": 1,
+      "description": "Heavyweight, warm",
+      "normalScale": 0.2
+    },
+    {
+      "id": "pique",
+      "label": "Cotton Piqué",
+      "sheen": 0.5,
+      "weave": "pique",
+      "roughness": 0.92,
+      "description": "Textured polo knit",
+      "normalScale": 0.55
+    },
+    {
+      "id": "poplin",
+      "label": "Oxford Poplin",
+      "sheen": 0.3,
+      "weave": "poplin",
+      "roughness": 0.82,
+      "description": "Crisp woven shirting",
+      "normalScale": 0.25
+    },
+    {
+      "id": "twill",
+      "label": "Heavy Twill",
+      "sheen": 0.25,
+      "weave": "twill",
+      "roughness": 0.9,
+      "description": "Hard-wearing work fabric",
+      "normalScale": 0.45
+    }
+  ],
+  "templates": [
+    {
+      "id": "football-jersey",
+      "areas": {
+        "back_allover": [
+          {
+            "x": 0.5,
+            "y": 0.2,
+            "fill": "#1f2a44",
+            "kind": "text",
+            "lock": "editable",
+            "name": "Player name",
+            "text": "SMITH",
+            "fontSize": 1.6,
+            "required": true,
+            "bulkField": "name",
+            "fontFamily": "Graduate"
+          },
+          {
+            "x": 0.5,
+            "y": 0.45,
+            "fill": "#1f2a44",
+            "kind": "text",
+            "lock": "editable",
+            "name": "Player number",
+            "text": "24",
+            "fontSize": 8,
+            "required": true,
+            "bulkField": "number",
+            "fontFamily": "Graduate"
+          }
+        ],
+        "front_allover": [
+          {
+            "x": 0.66,
+            "y": 0.24,
+            "fill": "#1f2a44",
+            "kind": "clipart",
+            "lock": "locked",
+            "name": "Club crest",
+            "clipartId": "shield",
+            "widthFrac": 0.16
+          },
+          {
+            "x": 0.34,
+            "y": 0.3,
+            "fill": "#1f2a44",
+            "kind": "text",
+            "lock": "editable",
+            "name": "Front number",
+            "text": "24",
+            "fontSize": 3.2,
+            "bulkField": "number",
+            "fontFamily": "Graduate"
+          }
+        ]
+      },
+      "title": "Football Jersey",
+      "productId": "jersey",
+      "description": "Team crest, player name and number.",
+      "restrictFonts": [
+        "Graduate",
+        "Oswald",
+        "Teko",
+        "Bebas Neue"
+      ]
+    },
+    {
+      "id": "company-uniform",
+      "areas": {
+        "left_chest": [
+          {
+            "x": 0.5,
+            "y": 0.5,
+            "fill": "#ffffff",
+            "kind": "clipart",
+            "lock": "locked",
+            "name": "Company logo",
+            "clipartId": "hexagon-logo",
+            "widthFrac": 0.7
+          }
+        ],
+        "right_chest": [
+          {
+            "x": 0.5,
+            "y": 0.5,
+            "fill": "#ffffff",
+            "kind": "text",
+            "lock": "editable",
+            "name": "Staff name",
+            "text": "Alex",
+            "fontSize": 0.55,
+            "required": true,
+            "bulkField": "name",
+            "fontFamily": "Montserrat"
+          }
+        ]
+      },
+      "title": "Company Uniform",
+      "colors": {
+        "body": "navy",
+        "collar": "navy",
+        "sleeves": "navy"
+      },
+      "methodId": "embroidery",
+      "productId": "polo",
+      "description": "Locked logo on chest, editable staff name.",
+      "restrictColors": [
+        "#ffffff",
+        "#e2a927"
+      ]
+    },
+    {
+      "id": "birthday",
+      "areas": {
+        "full_front": [
+          {
+            "x": 0.5,
+            "y": 0.25,
+            "fill": "#e2a927",
+            "kind": "clipart",
+            "lock": "editable",
+            "name": "Party star",
+            "clipartId": "star",
+            "widthFrac": 0.3
+          },
+          {
+            "x": 0.5,
+            "y": 0.62,
+            "fill": "#b3202c",
+            "kind": "text",
+            "lock": "editable",
+            "name": "Headline",
+            "text": "BIRTHDAY\nCREW",
+            "fontSize": 1.8,
+            "required": true,
+            "fontFamily": "Bungee"
+          }
+        ]
+      },
+      "title": "Birthday Shirt",
+      "colors": {
+        "body": "white"
+      },
+      "productId": "tshirt",
+      "description": "Big playful birthday message."
+    },
+    {
+      "id": "staff",
+      "areas": {
+        "full_back": [
+          {
+            "x": 0.5,
+            "y": 0.2,
+            "fill": "#ffffff",
+            "kind": "text",
+            "lock": "locked",
+            "name": "Staff label",
+            "text": "STAFF",
+            "fontSize": 3.4,
+            "fontFamily": "Anton"
+          }
+        ],
+        "left_chest": [
+          {
+            "x": 0.5,
+            "y": 0.5,
+            "fill": "#ffffff",
+            "kind": "text",
+            "lock": "editable",
+            "name": "Name",
+            "text": "Your Name",
+            "fontSize": 0.6,
+            "required": true,
+            "bulkField": "name",
+            "fontFamily": "Inter"
+          }
+        ]
+      },
+      "title": "Staff Shirt",
+      "colors": {
+        "body": "black"
+      },
+      "productId": "tshirt",
+      "description": "STAFF on the back, name on chest."
+    },
+    {
+      "id": "school-event",
+      "areas": {
+        "full_front": [
+          {
+            "x": 0.5,
+            "y": 0.22,
+            "fill": "#ffffff",
+            "kind": "clipart",
+            "lock": "editable",
+            "name": "Graduation cap",
+            "clipartId": "grad-cap",
+            "widthFrac": 0.35
+          },
+          {
+            "x": 0.5,
+            "y": 0.55,
+            "fill": "#ffffff",
+            "kind": "text",
+            "lock": "editable",
+            "name": "Event",
+            "text": "FIELD DAY",
+            "fontSize": 2,
+            "required": true,
+            "fontFamily": "Staatliches"
+          },
+          {
+            "x": 0.5,
+            "y": 0.72,
+            "fill": "#e2a927",
+            "kind": "text",
+            "lock": "editable",
+            "name": "Year",
+            "text": "2026",
+            "fontSize": 1.2,
+            "fontFamily": "Staatliches"
+          }
+        ]
+      },
+      "title": "School Event",
+      "colors": {
+        "body": "royal"
+      },
+      "productId": "tshirt",
+      "description": "Event name and year."
+    },
+    {
+      "id": "restaurant",
+      "areas": {
+        "left_chest": [
+          {
+            "x": 0.5,
+            "y": 0.4,
+            "fill": "#ffffff",
+            "kind": "clipart",
+            "lock": "locked",
+            "name": "Restaurant mark",
+            "clipartId": "chef-hat",
+            "widthFrac": 0.55
+          }
+        ],
+        "right_chest": [
+          {
+            "x": 0.5,
+            "y": 0.5,
+            "fill": "#ffffff",
+            "kind": "text",
+            "lock": "editable",
+            "name": "Crew name",
+            "text": "Chef Sam",
+            "fontSize": 0.5,
+            "required": true,
+            "bulkField": "name",
+            "fontFamily": "Lora"
+          }
+        ]
+      },
+      "title": "Restaurant Uniform",
+      "colors": {
+        "body": "black"
+      },
+      "methodId": "embroidery",
+      "productId": "workwear",
+      "description": "Kitchen crew workwear."
+    }
+  ],
+  "validation": {
+    "lowDpi": "warn",
+    "exclusion": "block",
+    "outOfBounds": "block",
+    "methodLimits": "block"
+  },
+  "printMethods": [
+    {
+      "id": "dtg",
+      "label": "DTG",
+      "finish": "soft",
+      "minDpi": 150,
+      "artwork": [
+        "text",
+        "raster",
+        "vector"
+      ],
+      "goodDpi": 300,
+      "materials": [
+        "cotton",
+        "blend",
+        "fleece",
+        "pique"
+      ],
+      "description": "Direct-to-garment full colour, soft hand feel",
+      "allowsShadow": true,
+      "allowsGradient": true
+    },
+    {
+      "id": "dtf",
+      "label": "DTF Transfer",
+      "finish": "matte",
+      "minDpi": 150,
+      "artwork": [
+        "text",
+        "raster",
+        "vector"
+      ],
+      "goodDpi": 300,
+      "description": "Full colour film transfer, works on most fabrics",
+      "allowsShadow": true,
+      "allowsGradient": true
+    },
+    {
+      "id": "screen",
+      "label": "Screen Print",
+      "finish": "matte",
+      "minDpi": 200,
+      "artwork": [
+        "text",
+        "vector",
+        "raster"
+      ],
+      "goodDpi": 300,
+      "maxColors": 6,
+      "minLineIn": 0.02,
+      "description": "Spot colours, most durable for bulk",
+      "allowsShadow": false,
+      "allowsGradient": false
+    },
+    {
+      "id": "vinyl",
+      "label": "Heat Vinyl",
+      "finish": "glossy",
+      "minDpi": 0,
+      "artwork": [
+        "text",
+        "vector"
+      ],
+      "goodDpi": 0,
+      "maxColors": 3,
+      "minLineIn": 0.08,
+      "description": "Cut vinyl for names and numbers",
+      "allowsShadow": false,
+      "allowsGradient": false,
+      "minTextHeightIn": 0.5
+    },
+    {
+      "id": "embroidery",
+      "label": "Embroidery",
+      "finish": "embroidery",
+      "minDpi": 0,
+      "artwork": [
+        "text",
+        "vector"
+      ],
+      "goodDpi": 0,
+      "palette": [
+        "#ffffff",
+        "#111111",
+        "#1f2a44",
+        "#2250a8",
+        "#b3202c",
+        "#26452f",
+        "#a7a8aa",
+        "#e2a927",
+        "#5a1f2b",
+        "#f08a24",
+        "#6d3fa0",
+        "#8fc1e3",
+        "#f4b6c2",
+        "#c9b27c",
+        "#3aa655"
+      ],
+      "maxAreaIn": {
+        "h": 12,
+        "w": 12
+      },
+      "maxColors": 12,
+      "minLineIn": 0.05,
+      "description": "Stitched thread, premium finish",
+      "allowsShadow": false,
+      "allowsGradient": false,
+      "minTextHeightIn": 0.25
+    },
+    {
+      "id": "sublimation",
+      "label": "Sublimation",
+      "finish": "dye",
+      "minDpi": 120,
+      "allOver": true,
+      "artwork": [
+        "text",
+        "raster",
+        "vector"
+      ],
+      "goodDpi": 200,
+      "materials": [
+        "performance",
+        "polyester"
+      ],
+      "description": "Edge-to-edge dye print on polyester",
+      "allowsShadow": true,
+      "allowsGradient": true
+    }
+  ],
+  "schemaVersion": 1
+}

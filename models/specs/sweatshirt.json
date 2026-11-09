@@ -1,0 +1,49 @@
+{
+ "product": "sweatshirt",
+ "model": "sweatshirt",
+ "garment": {
+  "kind": "longsleeve",
+  "chestIn": 22,
+  "lengthIn": 27,
+  "sleeveLengthIn": 24,
+  "collar": "crew",
+  "cuffs": true
+ },
+ "panels": {
+  "front": {
+   "w": 21.988,
+   "h": 27.466,
+   "mesh": "shirt_front"
+  },
+  "back": {
+   "w": 21.988,
+   "h": 27.466,
+   "mesh": "shirt_back"
+  },
+  "back_inside": {
+   "w": 21.988,
+   "h": 27.466,
+   "mesh": "shirt_back_inside"
+  },
+  "left_sleeve": {
+   "w": 20.853,
+   "h": 24,
+   "mesh": "shirt_left_sleeve"
+  },
+  "right_sleeve": {
+   "w": 20.853,
+   "h": 24,
+   "mesh": "shirt_right_sleeve"
+  },
+  "left_cuff": {
+   "w": 12.416,
+   "h": 2.5,
+   "mesh": "shirt_left_cuff"
+  },
+  "right_cuff": {
+   "w": 12.416,
+   "h": 2.5,
+   "mesh": "shirt_right_cuff"
+  }
+ }
+}

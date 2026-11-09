@@ -1,0 +1,38 @@
+{
+ "product": "kids-tee",
+ "model": "kids-tee",
+ "garment": {
+  "kind": "tee",
+  "chestIn": 15,
+  "lengthIn": 20.5,
+  "sleeveLengthIn": 5.5,
+  "collar": "crew"
+ },
+ "panels": {
+  "front": {
+   "w": 14.992,
+   "h": 20.522,
+   "mesh": "shirt_front"
+  },
+  "back": {
+   "w": 14.992,
+   "h": 20.522,
+   "mesh": "shirt_back"
+  },
+  "back_inside": {
+   "w": 14.992,
+   "h": 20.522,
+   "mesh": "shirt_back_inside"
+  },
+  "left_sleeve": {
+   "w": 17.316,
+   "h": 5.5,
+   "mesh": "shirt_left_sleeve"
+  },
+  "right_sleeve": {
+   "w": 17.316,
+   "h": 5.5,
+   "mesh": "shirt_right_sleeve"
+  }
+ }
+}

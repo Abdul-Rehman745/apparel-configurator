@@ -1,0 +1,42 @@
+{
+ "model": "tank",
+ "frames": 90,
+ "res_in": 0.7,
+ "pieces": {
+  "front": [
+   19.49,
+   28.72
+  ],
+  "back": [
+   19.49,
+   28.72
+  ],
+  "neck_rib": [
+   20.33,
+   0.64
+  ]
+ },
+ "object_dims_in": {
+  "shirt_front": [
+   13.91,
+   7.27,
+   27.36
+  ],
+  "shirt_back": [
+   14.0,
+   6.0,
+   27.75
+  ],
+  "shirt_back_inside": [
+   14.0,
+   6.0,
+   27.75
+  ],
+  "shirt_neck_rib": [
+   8.22,
+   5.81,
+   4.53
+  ]
+ },
+ "tris": 78528
+}

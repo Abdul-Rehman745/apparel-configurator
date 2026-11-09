@@ -1,0 +1,38 @@
+{
+ "product": "tshirt",
+ "model": "basic-tee",
+ "garment": {
+  "kind": "tee",
+  "chestIn": 20,
+  "lengthIn": 28,
+  "sleeveLengthIn": 8,
+  "collar": "crew"
+ },
+ "panels": {
+  "front": {
+   "w": 19.989,
+   "h": 28.262,
+   "mesh": "shirt_front"
+  },
+  "back": {
+   "w": 19.989,
+   "h": 28.262,
+   "mesh": "shirt_back"
+  },
+  "back_inside": {
+   "w": 19.989,
+   "h": 28.262,
+   "mesh": "shirt_back_inside"
+  },
+  "left_sleeve": {
+   "w": 19.842,
+   "h": 8,
+   "mesh": "shirt_left_sleeve"
+  },
+  "right_sleeve": {
+   "w": 19.842,
+   "h": 8,
+   "mesh": "shirt_right_sleeve"
+  }
+ }
+}

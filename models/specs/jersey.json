@@ -1,0 +1,38 @@
+{
+ "product": "jersey",
+ "model": "jersey",
+ "garment": {
+  "kind": "tee",
+  "chestIn": 21,
+  "lengthIn": 29,
+  "sleeveLengthIn": 8.5,
+  "collar": "v"
+ },
+ "panels": {
+  "front": {
+   "w": 20.989,
+   "h": 29.358,
+   "mesh": "shirt_front"
+  },
+  "back": {
+   "w": 20.989,
+   "h": 29.358,
+   "mesh": "shirt_back"
+  },
+  "back_inside": {
+   "w": 20.989,
+   "h": 29.358,
+   "mesh": "shirt_back_inside"
+  },
+  "left_sleeve": {
+   "w": 20.347,
+   "h": 8.5,
+   "mesh": "shirt_left_sleeve"
+  },
+  "right_sleeve": {
+   "w": 20.347,
+   "h": 8.5,
+   "mesh": "shirt_right_sleeve"
+  }
+ }
+}

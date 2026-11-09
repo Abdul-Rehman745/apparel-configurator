@@ -1,0 +1,60 @@
+{
+ "model": "premium-tee",
+ "frames": 90,
+ "res_in": 0.7,
+ "pieces": {
+  "front": [
+   20.49,
+   29.31
+  ],
+  "back": [
+   20.49,
+   29.31
+  ],
+  "left_sleeve": [
+   20.09,
+   8.0
+  ],
+  "right_sleeve": [
+   20.09,
+   8.0
+  ],
+  "neck_rib": [
+   17.64,
+   0.66
+  ]
+ },
+ "object_dims_in": {
+  "shirt_front": [
+   16.82,
+   6.24,
+   25.91
+  ],
+  "shirt_back": [
+   16.82,
+   6.02,
+   25.52
+  ],
+  "shirt_back_inside": [
+   16.82,
+   6.02,
+   25.52
+  ],
+  "shirt_left_sleeve": [
+   7.63,
+   5.43,
+   8.2
+  ],
+  "shirt_right_sleeve": [
+   7.71,
+   5.62,
+   8.55
+  ],
+  "shirt_neck_rib": [
+   8.94,
+   6.15,
+   1.55
+  ]
+ },
+ "tris": 109548
+}

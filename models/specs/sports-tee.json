@@ -1,0 +1,38 @@
+{
+ "product": "sports-tee",
+ "model": "sports-tee",
+ "garment": {
+  "kind": "tee",
+  "chestIn": 20.5,
+  "lengthIn": 28.5,
+  "sleeveLengthIn": 8,
+  "collar": "v"
+ },
+ "panels": {
+  "front": {
+   "w": 20.489,
+   "h": 28.808,
+   "mesh": "shirt_front"
+  },
+  "back": {
+   "w": 20.489,
+   "h": 28.808,
+   "mesh": "shirt_back"
+  },
+  "back_inside": {
+   "w": 20.489,
+   "h": 28.808,
+   "mesh": "shirt_back_inside"
+  },
+  "left_sleeve": {
+   "w": 20.095,
+   "h": 8,
+   "mesh": "shirt_left_sleeve"
+  },
+  "right_sleeve": {
+   "w": 20.095,
+   "h": 8,
+   "mesh": "shirt_right_sleeve"
+  }
+ }
+}

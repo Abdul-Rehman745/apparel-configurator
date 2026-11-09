@@ -1,0 +1,28 @@
+{
+ "product": "tank",
+ "model": "tank",
+ "garment": {
+  "kind": "tank",
+  "chestIn": 19.5,
+  "lengthIn": 28.5,
+  "sleeveLengthIn": 0,
+  "collar": "crew"
+ },
+ "panels": {
+  "front": {
+   "w": 19.489,
+   "h": 28.719,
+   "mesh": "shirt_front"
+  },
+  "back": {
+   "w": 19.489,
+   "h": 28.719,
+   "mesh": "shirt_back"
+  },
+  "back_inside": {
+   "w": 19.489,
+   "h": 28.719,
+   "mesh": "shirt_back_inside"
+  }
+ }
+}

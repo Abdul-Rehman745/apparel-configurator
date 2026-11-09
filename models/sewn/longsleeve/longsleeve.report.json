@@ -1,0 +1,87 @@
+{
+ "model": "longsleeve",
+ "frames": 90,
+ "res_in": 0.7,
+ "pieces": {
+  "front": [
+   19.99,
+   28.76
+  ],
+  "back": [
+   19.99,
+   28.76
+  ],
+  "left_sleeve": [
+   19.84,
+   23.0
+  ],
+  "right_sleeve": [
+   19.84,
+   23.0
+  ],
+  "left_cuff": [
+   12.42,
+   2.5
+  ],
+  "right_cuff": [
+   12.42,
+   2.5
+  ],
+  "neck_rib": [
+   17.33,
+   0.65
+  ],
+  "hem_rib": [
+   39.98,
+   2.2
+  ]
+ },
+ "object_dims_in": {
+  "shirt_front": [
+   16.43,
+   6.38,
+   25.4
+  ],
+  "shirt_back": [
+   16.36,
+   5.68,
+   25.32
+  ],
+  "shirt_back_inside": [
+   16.36,
+   5.68,
+   25.32
+  ],
+  "shirt_left_sleeve": [
+   17.1,
+   5.47,
+   19.03
+  ],
+  "shirt_right_sleeve": [
+   17.99,
+   5.31,
+   18.98
+  ],
+  "shirt_left_cuff": [
+   4.95,
+   3.5,
+   4.74
+  ],
+  "shirt_right_cuff": [
+   4.86,
+   3.42,
+   4.68
+  ],
+  "shirt_neck_rib": [
+   8.8,
+   6.45,
+   1.6
+  ],
+  "shirt_hem_rib": [
+   15.92,
+   10.2,
+   2.71
+  ]
+ },
+ "tris": 140412
+}

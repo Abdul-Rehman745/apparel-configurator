@@ -1,0 +1,60 @@
+{
+ "model": "basic-tee",
+ "frames": 1,
+ "res_in": 0.7,
+ "pieces": {
+  "front": [
+   19.99,
+   28.26
+  ],
+  "back": [
+   19.99,
+   28.26
+  ],
+  "left_sleeve": [
+   19.84,
+   8.0
+  ],
+  "right_sleeve": [
+   19.84,
+   8.0
+  ],
+  "neck_rib": [
+   17.38,
+   0.8
+  ]
+ },
+ "object_dims_in": {
+  "shirt_front": [
+   16.08,
+   4.55,
+   28.0
+  ],
+  "shirt_back": [
+   16.08,
+   4.55,
+   28.0
+  ],
+  "shirt_back_inside": [
+   16.08,
+   4.55,
+   28.0
+  ],
+  "shirt_left_sleeve": [
+   9.37,
+   6.31,
+   9.67
+  ],
+  "shirt_right_sleeve": [
+   9.37,
+   6.31,
+   9.67
+  ],
+  "shirt_neck_rib": [
+   6.11,
+   7.58,
+   3.77
+  ]
+ },
+ "tris": 35244
+}

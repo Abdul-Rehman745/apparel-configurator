@@ -1,0 +1,50 @@
+{
+ "product": "hoodie",
+ "model": "hoodie",
+ "garment": {
+  "kind": "hoodie",
+  "chestIn": 22,
+  "lengthIn": 27.5,
+  "sleeveLengthIn": 24,
+  "collar": "hood",
+  "pocket": true,
+  "cuffs": true
+ },
+ "panels": {
+  "front": {
+   "w": 22.575,
+   "h": 28,
+   "mesh": "shirt_front"
+  },
+  "back": {
+   "w": 22.575,
+   "h": 28,
+   "mesh": "shirt_back"
+  },
+  "back_inside": {
+   "w": 22.575,
+   "h": 28,
+   "mesh": "shirt_back_inside"
+  },
+  "left_sleeve": {
+   "w": 20.853,
+   "h": 24,
+   "mesh": "shirt_left_sleeve"
+  },
+  "right_sleeve": {
+   "w": 20.853,
+   "h": 24,
+   "mesh": "shirt_right_sleeve"
+  },
+  "left_cuff": {
+   "w": 12.416,
+   "h": 2.5,
+   "mesh": "shirt_left_cuff"
+  },
+  "right_cuff": {
+   "w": 12.416,
+   "h": 2.5,
+   "mesh": "shirt_right_cuff"
+  }
+ }
+}

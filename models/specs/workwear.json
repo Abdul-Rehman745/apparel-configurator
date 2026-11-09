@@ -1,0 +1,45 @@
+{
+ "product": "workwear",
+ "model": "workwear",
+ "garment": {
+  "kind": "dress",
+  "chestIn": 22.5,
+  "lengthIn": 30,
+  "sleeveLengthIn": 9,
+  "collar": "dress",
+  "placket": true,
+  "drop": 1.05
+ },
+ "panels": {
+  "front": {
+   "w": 23.612,
+   "h": 30.662,
+   "mesh": "shirt_front"
+  },
+  "back": {
+   "w": 23.612,
+   "h": 30.662,
+   "mesh": "shirt_back"
+  },
+  "back_inside": {
+   "w": 23.612,
+   "h": 30.662,
+   "mesh": "shirt_back_inside"
+  },
+  "left_sleeve": {
+   "w": 21.674,
+   "h": 9,
+   "mesh": "shirt_left_sleeve"
+  },
+  "right_sleeve": {
+   "w": 21.674,
+   "h": 9,
+   "mesh": "shirt_right_sleeve"
+  },
+  "collar": {
+   "w": 21.103,
+   "h": 1.8,
+   "mesh": "shirt_collar"
+  }
+ }
+}

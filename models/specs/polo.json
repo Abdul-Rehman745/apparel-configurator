@@ -1,0 +1,44 @@
+{
+ "product": "polo",
+ "model": "polo",
+ "garment": {
+  "kind": "polo",
+  "chestIn": 20.5,
+  "lengthIn": 28.5,
+  "sleeveLengthIn": 8.5,
+  "collar": "polo",
+  "placket": true
+ },
+ "panels": {
+  "front": {
+   "w": 20.489,
+   "h": 28.808,
+   "mesh": "shirt_front"
+  },
+  "back": {
+   "w": 20.489,
+   "h": 28.808,
+   "mesh": "shirt_back"
+  },
+  "back_inside": {
+   "w": 20.489,
+   "h": 28.808,
+   "mesh": "shirt_back_inside"
+  },
+  "left_sleeve": {
+   "w": 20.095,
+   "h": 8.5,
+   "mesh": "shirt_left_sleeve"
+  },
+  "right_sleeve": {
+   "w": 20.095,
+   "h": 8.5,
+   "mesh": "shirt_right_sleeve"
+  },
+  "collar": {
+   "w": 21.103,
+   "h": 1.8,
+   "mesh": "shirt_collar"
+  }
+ }
+}

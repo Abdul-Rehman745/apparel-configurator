@@ -1,0 +1,122 @@
+{
+ "model": "dress-shirt",
+ "frames": 90,
+ "res_in": 0.7,
+ "pieces": {
+  "front": [
+   20.99,
+   30.36
+  ],
+  "back": [
+   20.99,
+   30.36
+  ],
+  "left_sleeve": [
+   20.35,
+   24.0
+  ],
+  "right_sleeve": [
+   20.35,
+   24.0
+  ],
+  "left_cuff": [
+   12.42,
+   2.5
+  ],
+  "right_cuff": [
+   12.42,
+   2.5
+  ],
+  "collar": [
+   21.1,
+   1.8
+  ],
+  "placket": [
+   1.5,
+   26.07
+  ]
+ },
+ "object_dims_in": {
+  "shirt_front": [
+   15.71,
+   8.23,
+   27.03
+  ],
+  "shirt_back": [
+   15.48,
+   6.65,
+   27.05
+  ],
+  "shirt_back_inside": [
+   15.48,
+   6.65,
+   27.05
+  ],
+  "shirt_left_sleeve": [
+   18.04,
+   5.67,
+   19.35
+  ],
+  "shirt_right_sleeve": [
+   17.96,
+   5.51,
+   19.44
+  ],
+  "shirt_left_cuff": [
+   4.75,
+   3.82,
+   4.56
+  ],
+  "shirt_right_cuff": [
+   4.56,
+   4.01,
+   4.37
+  ],
+  "shirt_collar": [
+   10.84,
+   7.94,
+   3.05
+  ],
+  "shirt_placket": [
+   2.22,
+   2.83,
+   22.65
+  ],
+  "shirt_button_01": [
+   0.54,
+   0.54,
+   0.1
+  ],
+  "shirt_button_02": [
+   0.54,
+   0.54,
+   0.1
+  ],
+  "shirt_button_03": [
+   0.54,
+   0.54,
+   0.1
+  ],
+  "shirt_button_04": [
+   0.54,
+   0.54,
+   0.1
+  ],
+  "shirt_button_05": [
+   0.54,
+   0.54,
+   0.1
+  ],
+  "shirt_button_06": [
+   0.54,
+   0.54,
+   0.1
+  ],
+  "shirt_button_07": [
+   0.54,
+   0.54,
+   0.1
+  ]
+ },
+ "tris": 149872
+}

@@ -1,0 +1,40 @@
+{
+  "source": "D:\\Skills Agent Test\\apparel-configurator\\models\\raw\\3dassets-hanging-shirt.glb",
+  "selectedMesh": "tshirt-on-hanger_3",
+  "license": {
+    "source": "cc0",
+    "author": "3D Assets (3dassets.dev)",
+    "license": "CC0-1.0",
+    "url": "https://3dassets.dev/assets/clothing-rail-and-wardrobe-tshirt-on-hanger-c0e0e17d",
+    "file": "https://cdn.3dassets.dev/assets/35447/v1/model.glb",
+    "sha256": "A2FA84A62DC7A856835DA14741F94A148DB3AA1E1C76B99A57000F1A9436B4A8",
+    "downloadedAt": "2026-09-24",
+    "attributionRequired": false,
+    "redistribution": "allowed"
+  },
+  "normalizedHeightIn": 25.35,
+  "panels": {
+    "front": {
+      "mesh": "shirt_front",
+      "widthIn": 19.32,
+      "heightIn": 25.35
+    },
+    "back": {
+      "mesh": "shirt_back",
+      "widthIn": 19.08,
+      "heightIn": 25.35
+    },
+    "left_sleeve": {
+      "mesh": "shirt_left_sleeve",
+      "widthIn": 8.62,
+      "heightIn": 7.1
+    },
+    "right_sleeve": {
+      "mesh": "shirt_right_sleeve",
+      "widthIn": 8.7,
+      "heightIn": 7.05
+    }
+  },
+  "convention": "Blender Z-up during processing; exported glTF Y-up, front +Z. Back panel U mirrored. GLB UV row 0 = top.",
+  "note": "Automatic split without authored seams. Verify with the in-app checker (?checker=<areaId>) before publishing."
+}

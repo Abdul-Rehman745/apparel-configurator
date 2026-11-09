@@ -1,0 +1,39 @@
+{
+ "product": "tshirt",
+ "model": "oversized-tee",
+ "garment": {
+  "kind": "tee",
+  "chestIn": 20,
+  "lengthIn": 30,
+  "sleeveLengthIn": 10,
+  "collar": "crew",
+  "drop": 1.14
+ },
+ "panels": {
+  "front": {
+   "w": 22.788,
+   "h": 30.559,
+   "mesh": "shirt_front"
+  },
+  "back": {
+   "w": 22.788,
+   "h": 30.559,
+   "mesh": "shirt_back"
+  },
+  "back_inside": {
+   "w": 22.788,
+   "h": 30.559,
+   "mesh": "shirt_back_inside"
+  },
+  "left_sleeve": {
+   "w": 21.257,
+   "h": 10,
+   "mesh": "shirt_left_sleeve"
+  },
+  "right_sleeve": {
+   "w": 21.257,
+   "h": 10,
+   "mesh": "shirt_right_sleeve"
+  }
+ }
+}

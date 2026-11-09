@@ -1,0 +1,87 @@
+{
+ "model": "sweatshirt",
+ "frames": 90,
+ "res_in": 0.7,
+ "pieces": {
+  "front": [
+   21.99,
+   27.47
+  ],
+  "back": [
+   21.99,
+   27.47
+  ],
+  "left_sleeve": [
+   20.85,
+   24.0
+  ],
+  "right_sleeve": [
+   20.85,
+   24.0
+  ],
+  "left_cuff": [
+   12.42,
+   2.5
+  ],
+  "right_cuff": [
+   12.42,
+   2.5
+  ],
+  "neck_rib": [
+   18.54,
+   0.69
+  ],
+  "hem_rib": [
+   43.98,
+   2.2
+  ]
+ },
+ "object_dims_in": {
+  "shirt_front": [
+   18.02,
+   7.24,
+   23.77
+  ],
+  "shirt_back": [
+   17.83,
+   6.24,
+   23.63
+  ],
+  "shirt_back_inside": [
+   17.83,
+   6.24,
+   23.63
+  ],
+  "shirt_left_sleeve": [
+   18.71,
+   5.57,
+   19.64
+  ],
+  "shirt_right_sleeve": [
+   18.04,
+   5.95,
+   19.37
+  ],
+  "shirt_left_cuff": [
+   4.87,
+   3.54,
+   4.63
+  ],
+  "shirt_right_cuff": [
+   4.76,
+   3.73,
+   4.53
+  ],
+  "shirt_neck_rib": [
+   9.08,
+   6.7,
+   2.28
+  ],
+  "shirt_hem_rib": [
+   17.72,
+   11.0,
+   3.02
+  ]
+ },
+ "tris": 145692
+}

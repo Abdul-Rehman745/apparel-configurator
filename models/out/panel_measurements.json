@@ -1,0 +1,35 @@
+{
+  "source": "models/raw/nour-tshirt.glb",
+  "license": {
+    "author": "Nour",
+    "license": "CC-BY 3.0",
+    "source": "Poly Pizza / Google Poly archive",
+    "url": "https://poly.pizza/m/oZOt671DyI",
+    "attributionRequired": true,
+    "attribution": "\u201cT Shirt\u201d by Nour, licensed CC-BY 3.0, via Poly Pizza"
+  },
+  "normalizedHeightIn": 13.46,
+  "panels": {
+    "front": {
+      "mesh": "shirt_front",
+      "widthIn": 18.85,
+      "heightIn": 13.46
+    },
+    "back": {
+      "mesh": "shirt_back",
+      "widthIn": 18.74,
+      "heightIn": 13.46
+    },
+    "left_sleeve": {
+      "mesh": "shirt_left_sleeve",
+      "widthIn": 10.75,
+      "heightIn": 2.48
+    },
+    "right_sleeve": {
+      "mesh": "shirt_right_sleeve",
+      "widthIn": 10.75,
+      "heightIn": 2.48
+    }
+  },
+  "note": "widthIn/heightIn are AUTOMATIC estimates from an orthographic/cylindrical projection with no authored seams. Verify visually via /admin panel mapping + '?checker=<areaId>' before publishing; re-measure by hand in Blender if the checker grid looks stretched or misaligned."
+}

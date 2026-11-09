@@ -1,0 +1,49 @@
+{
+ "product": "longsleeve",
+ "model": "longsleeve",
+ "garment": {
+  "kind": "longsleeve",
+  "chestIn": 20,
+  "lengthIn": 28.5,
+  "sleeveLengthIn": 23,
+  "collar": "crew",
+  "cuffs": true
+ },
+ "panels": {
+  "front": {
+   "w": 19.989,
+   "h": 28.762,
+   "mesh": "shirt_front"
+  },
+  "back": {
+   "w": 19.989,
+   "h": 28.762,
+   "mesh": "shirt_back"
+  },
+  "back_inside": {
+   "w": 19.989,
+   "h": 28.762,
+   "mesh": "shirt_back_inside"
+  },
+  "left_sleeve": {
+   "w": 19.842,
+   "h": 23,
+   "mesh": "shirt_left_sleeve"
+  },
+  "right_sleeve": {
+   "w": 19.842,
+   "h": 23,
+   "mesh": "shirt_right_sleeve"
+  },
+  "left_cuff": {
+   "w": 12.416,
+   "h": 2.5,
+   "mesh": "shirt_left_cuff"
+  },
+  "right_cuff": {
+   "w": 12.416,
+   "h": 2.5,
+   "mesh": "shirt_right_cuff"
+  }
+ }
+}

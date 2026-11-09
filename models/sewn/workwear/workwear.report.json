@@ -1,0 +1,104 @@
+{
+ "model": "workwear",
+ "frames": 90,
+ "res_in": 0.7,
+ "pieces": {
+  "front": [
+   23.61,
+   30.66
+  ],
+  "back": [
+   23.61,
+   30.66
+  ],
+  "left_sleeve": [
+   21.67,
+   9.0
+  ],
+  "right_sleeve": [
+   21.67,
+   9.0
+  ],
+  "collar": [
+   21.1,
+   1.8
+  ],
+  "placket": [
+   1.5,
+   26.24
+  ]
+ },
+ "object_dims_in": {
+  "shirt_front": [
+   19.03,
+   7.7,
+   26.28
+  ],
+  "shirt_back": [
+   19.03,
+   7.3,
+   26.61
+  ],
+  "shirt_back_inside": [
+   19.03,
+   7.3,
+   26.61
+  ],
+  "shirt_left_sleeve": [
+   8.72,
+   5.96,
+   9.16
+  ],
+  "shirt_right_sleeve": [
+   8.5,
+   6.63,
+   9.65
+  ],
+  "shirt_collar": [
+   11.1,
+   7.95,
+   3.29
+  ],
+  "shirt_placket": [
+   1.7,
+   2.52,
+   22.44
+  ],
+  "shirt_button_01": [
+   0.54,
+   0.54,
+   0.1
+  ],
+  "shirt_button_02": [
+   0.54,
+   0.54,
+   0.1
+  ],
+  "shirt_button_03": [
+   0.54,
+   0.54,
+   0.1
+  ],
+  "shirt_button_04": [
+   0.54,
+   0.54,
+   0.1
+  ],
+  "shirt_button_05": [
+   0.54,
+   0.54,
+   0.1
+  ],
+  "shirt_button_06": [
+   0.54,
+   0.54,
+   0.1
+  ],
+  "shirt_button_07": [
+   0.54,
+   0.54,
+   0.1
+  ]
+ },
+ "tris": 137368
+}

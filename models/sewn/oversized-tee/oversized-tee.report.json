@@ -1,0 +1,60 @@
+{
+ "model": "oversized-tee",
+ "frames": 90,
+ "res_in": 0.7,
+ "pieces": {
+  "front": [
+   22.79,
+   30.56
+  ],
+  "back": [
+   22.79,
+   30.56
+  ],
+  "left_sleeve": [
+   21.26,
+   10.0
+  ],
+  "right_sleeve": [
+   21.26,
+   10.0
+  ],
+  "neck_rib": [
+   17.33,
+   0.65
+  ]
+ },
+ "object_dims_in": {
+  "shirt_front": [
+   19.95,
+   7.78,
+   25.67
+  ],
+  "shirt_back": [
+   19.95,
+   7.76,
+   25.51
+  ],
+  "shirt_back_inside": [
+   19.95,
+   7.76,
+   25.51
+  ],
+  "shirt_left_sleeve": [
+   9.21,
+   6.28,
+   8.92
+  ],
+  "shirt_right_sleeve": [
+   8.88,
+   7.44,
+   9.13
+  ],
+  "shirt_neck_rib": [
+   7.81,
+   7.27,
+   2.57
+  ]
+ },
+ "tris": 135996
+}
